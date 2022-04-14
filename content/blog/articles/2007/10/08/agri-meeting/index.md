@@ -6,6 +6,14 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "meeting"
+      display: "meeting"
+    - name: "agriturismo"
+      display: "agriturismo"
 ---
 
 Lo scorso weekend si è svolto il [primo

@@ -6,6 +6,14 @@ author_data:
     username: "andrea.nasato"
     fullname: "Andrea Nasato"
     email: "andrea.nasato@jugpadova.it"
+categories:
+    - name: "Tips & Tricks"
+      permalink: "tips-and-tricks"
+tags:
+    - name: "jsf"
+      display: "JSF"
+    - name: "facelets"
+      display: "Facelets"
 ---
 
 One of the main issues with JSF is the plenty of use of custom tags in

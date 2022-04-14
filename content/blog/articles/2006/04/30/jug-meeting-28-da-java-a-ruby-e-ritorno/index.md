@@ -6,6 +6,18 @@ author_data:
     username: "paolo.dona"
     fullname: "Paolo Dona'"
     email: "paolo.dona@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "ruby"
+      display: "ruby"
+    - name: "java"
+      display: "java"
+    - name: "rails"
+      display: "rails"
+    - name: "activerecord"
+      display: "activerecord"
 ---
 
 **Quando:** Sabato 20 Maggio 2006 dalle 09:00 alle 12:30

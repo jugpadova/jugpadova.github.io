@@ -6,6 +6,16 @@ author_data:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "scala"
+      display: "scala"
+    - name: "jawr"
+      display: "JAWR"
+    - name: "javafx"
+      display: "JavaFX"
 ---
 
 JUG Meeting\#51 - Introduzione a Scala, JAWR e JavaFX

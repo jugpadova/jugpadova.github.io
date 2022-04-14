@@ -6,6 +6,16 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Tips & Tricks"
+      permalink: "tips-and-tricks"
+tags:
+    - name: "java"
+      display: "java"
+    - name: "quiz"
+      display: "quiz"
+    - name: "certification"
+      display: "certification"
 ---
 A proposito della classe java.lang.Math...
 

@@ -6,6 +6,16 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "spring"
+      display: "spring"
+    - name: "meeting"
+      display: "meeting"
+    - name: "cagliari"
+      display: "Cagliari"
 ---
 La settimana scorsa [io](http://www.benfante.com), [Paolo D.](http://paolodona.blogspot.com) e Andrea S. siamo andati in moto a Cagliari per partecipare allo [Spring Framework Meeting 2007](http://www.jugsardegna.org/vqwiki/jsp/Wiki?14Luglio2007). Venerdì ci ha raggiunto anche [Enrico G.](http://enricogi.blogspot.com/).
 

@@ -6,6 +6,22 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "tdd"
+      display: "tdd"
+    - name: "postgre"
+      display: "postgre"
+    - name: "sql"
+      display: "sql"
+    - name: "fablab"
+      display: "fablab"
+    - name: "verona"
+      display: "verona"
 ---
 
 **Quando**: sabato 27 Maggio 2017

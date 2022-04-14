@@ -6,6 +6,12 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Software"
+      permalink: "software"
+    - name: "Programmazione"
+      permalink: "programmazione"
+tags:
 ---
 JUG Events è finalmente online!
 

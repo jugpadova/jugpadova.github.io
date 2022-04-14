@@ -6,6 +6,16 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Tips & Tricks"
+      permalink: "tips-and-tricks"
+tags:
+    - name: "mustang"
+      display: "Mustang"
+    - name: "desktop"
+      display: "desktop"
+    - name: "splashscreen"
+      display: "splash screen"
 ---
 [Mustang](https://mustang.dev.java.net/) will be the next release of the Java Standard Edition (Java SE 6). At present Mustang is in beta, it will be delivered in [Autumn 2006](http://weblogs.java.net/blog/ray_gans/archive/2006/01/where_we_are_wi.html).
 

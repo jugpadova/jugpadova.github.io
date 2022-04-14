@@ -6,6 +6,16 @@ author_data:
     username: "dario.santamaria"
     fullname: "Dario Santamaria"
     email: "dario.santamaria@jugpadova.it"
+categories:
+    - name: "Tips & Tricks"
+      permalink: "tips-and-tricks"
+tags:
+    - name: "install"
+      display: "install"
+    - name: "creator"
+      display: "creator"
+    - name: "debian"
+      display: "debian"
 ---
 On Linux, the required distribution for Java Studio Creator 2 (now <a href="http://developers.sun.com/members/promo/freetools/jscreator2.jsp" target="_blank">Free</a> for all SDN members) is Fedora. I'm a Debian user and I succeeded to install it, however.<br />
 The first time my installation completes too soon, without correctly installing Java Application Server. I read the FAQs and I found a page saying:<br />

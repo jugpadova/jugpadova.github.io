@@ -6,6 +6,20 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "assemblea"
+      display: "assemblea"
+    - name: "android"
+      display: "android"
+    - name: "key"
+      display: "key"
+    - name: "signing"
+      display: "signing"
+    - name: "party"
+      display: "party"
 ---
 
 JUG Meeting\#50 - Assemblea & Android & key signing party

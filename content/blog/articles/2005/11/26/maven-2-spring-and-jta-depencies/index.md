@@ -6,6 +6,18 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Tips & Tricks"
+      permalink: "tips-and-tricks"
+tags:
+    - name: "maven"
+      display: "maven"
+    - name: "spring"
+      display: "spring"
+    - name: "jta"
+      display: "jta"
+    - name: "dependency"
+      display: "dependency"
 ---
 Few weeks ago I started using [Maven 2](http://maven.apache.org) for one of my development projects. The project is very simple, but it has dependencies with some external libraries, in particular with [Spring](http://www.springframework.org):
 

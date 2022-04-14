@@ -6,6 +6,16 @@ author_data:
     username: "andrea.nasato"
     fullname: "Andrea Nasato"
     email: "andrea.nasato@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "assemblea"
+      display: "assemblea"
+    - name: "grid"
+      display: "grid"
+    - name: "sun"
+      display: "Sun"
 ---
 
 **Quando:** Sabato 8 Aprile 2006 dalle 09:00 alle 12:30

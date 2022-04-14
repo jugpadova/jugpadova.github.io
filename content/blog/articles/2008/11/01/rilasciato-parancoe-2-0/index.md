@@ -6,6 +6,12 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Software"
+      permalink: "software"
+tags:
+    - name: "parancoe"
+      display: "Parancoe"
 ---
 
 Dopo una lunga gestazione abbiamo rilasciato la versione 2.0 di

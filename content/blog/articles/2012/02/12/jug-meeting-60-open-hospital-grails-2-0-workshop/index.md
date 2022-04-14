@@ -6,6 +6,20 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+    - name: "Programmazione"
+      permalink: "programmazione"
+tags:
+    - name: "openhospital"
+      display: "openhospital"
+    - name: "grails"
+      display: "grails"
+    - name: "workshop"
+      display: "workshop"
 ---
 
 **Quando**: sabato 25/02/2012 dalle ore 9:00 alle ore 12:30.

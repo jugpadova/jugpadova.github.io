@@ -6,6 +6,16 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+    - name: "Programmazione"
+      permalink: "programmazione"
+tags:
+    - name: "iphone"
+      display: "iPhone"
 ---
 
 JUG Meeting\#58: Sviluppo per iPhone

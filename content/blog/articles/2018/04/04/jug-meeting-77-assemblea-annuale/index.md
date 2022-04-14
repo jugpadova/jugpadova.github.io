@@ -6,6 +6,12 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
 ---
 
 **Quando**: sabato 7 Aprile 2018

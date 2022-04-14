@@ -6,6 +6,20 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Software"
+      permalink: "software"
+    - name: "Programmazione"
+      permalink: "programmazione"
+tags:
+    - name: "parancoe"
+      display: "Parancoe"
+    - name: "persistence"
+      display: "persistence"
+    - name: "framework"
+      display: "framework"
+    - name: "dao"
+      display: "DAO"
 ---
 [Parancoe](https://parancoe.dev.java.net) è un framework Web pensato per scrivere rapidamente applicazioni Web "di tutti i giorni", cioè applicazioni senza requisiti particolari, quelle che nel 90% dei casi viene richiesto di sviluppare. Lo scopo quindi non è avere un framework iper-flessibile, capace di adattarsi a tutti i requisiti possibili, ma un framework che renda _molto_ semplice la vita al programmatore sviluppando quel particolare tipo di applicazioni.
 

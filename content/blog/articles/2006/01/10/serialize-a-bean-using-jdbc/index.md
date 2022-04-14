@@ -6,6 +6,16 @@ author_data:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"
+categories:
+    - name: "Tips & Tricks"
+      permalink: "tips-and-tricks"
+tags:
+    - name: "blob"
+      display: "blob"
+    - name: "jdbc"
+      display: "jdbc"
+    - name: "bean"
+      display: "bean"
 ---
 Sometimes,  in my work as programmer, I need to serialize an object (bean) into a table, in a BLOB field, as well as retrieves bean from a ResultSet.
 I have realized a simple example that, using JDBC, allows to obtain this.

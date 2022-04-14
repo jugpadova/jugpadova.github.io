@@ -6,6 +6,14 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Software"
+      permalink: "software"
+tags:
+    - name: "jug"
+      display: "JUG"
+    - name: "events"
+      display: "Events"
 ---
 
 Ottimo risultato questa settimana per la nostra applicazione [JUG

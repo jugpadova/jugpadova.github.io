@@ -6,6 +6,14 @@ author_data:
     username: "dario.santamaria"
     fullname: "Dario Santamaria"
     email: "dario.santamaria@jugpadova.it"
+categories:
+    - name: "Software"
+      permalink: "software"
+tags:
+    - name: "intellijidea"
+      display: "IntellijIDEA"
+    - name: "ide"
+      display: "ide"
 ---
 
 È uscito da qualche giorno la versione 6.0 del "<i>most intelligent Java

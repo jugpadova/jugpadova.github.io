@@ -6,6 +6,14 @@ author_data:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"
+categories:
+    - name: "Software"
+      permalink: "software"
+tags:
+    - name: "bug"
+      display: "bug"
+    - name: "tool"
+      display: "tool"
 ---
 <a href="http://findbugs.sourceforge.net/index.html"><img src="http://findbugs.sourceforge.net/umdFindbugs.png" alt="FindBugs" width="100" border="0" align="left" HSPACE="10" VSPACE="10" /></a>  
 

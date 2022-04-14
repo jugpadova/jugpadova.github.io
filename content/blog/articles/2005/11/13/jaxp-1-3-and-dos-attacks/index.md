@@ -6,6 +6,12 @@ author_data:
     username: "andrea.nasato"
     fullname: "Andrea Nasato"
     email: "andrea.nasato@jugpadova.it"
+categories:
+    - name: "Tips & Tricks"
+      permalink: "tips-and-tricks"
+tags:
+    - name: "xml"
+      display: "xml"
 ---
 One of the new aspects introduced in [JAXP 1.3](http://www.jcp.org/en/jsr/detail?id=206  ) is the opportunity to specify the security level of the <code>SaxParser</code> used. The target of this feature is to prevent the application from DoS (Denial of Service) attacks, which use some vulnerabilities of XML.
 There are two main attack categories, let's see them:

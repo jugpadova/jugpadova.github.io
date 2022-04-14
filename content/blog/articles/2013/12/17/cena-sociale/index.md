@@ -6,6 +6,14 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Eventi"
+      permalink: "eventi"
+    - name: "People"
+      permalink: "people"
+tags:
+    - name: "cena"
+      display: "cena"
 ---
 
 **Quando:** mercoledì 18 dicembre 2013 dalle 19:30 alle 23:30

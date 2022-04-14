@@ -6,6 +6,20 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+    - name: "Programmazione"
+      permalink: "programmazione"
+    - name: "People"
+      permalink: "people"
+tags:
+    - name: "assemblea"
+      display: "assemblea"
+    - name: "annuale"
+      display: "annuale"
 ---
 
 **Quando**: venerdì 27/04/2012 dalle ore 19:45 alle ore 22:30.

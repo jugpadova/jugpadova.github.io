@@ -6,6 +6,10 @@ author_data:
     username: "lucio"
     fullname: ""
     email: ""
+categories:
+    - name: "Tips & Tricks"
+      permalink: "tips-and-tricks"
+tags:
 ---
 One of the traits I personally appreciate most in a good programmer is what I call the _"constructive laziness"_. It is the attitude to build software solutions for avoiding boring activities.
 

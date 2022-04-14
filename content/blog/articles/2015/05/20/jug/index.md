@@ -6,6 +6,20 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "julia"
+      display: "JULIA"
+    - name: "angular"
+      display: "Angular"
+    - name: "netflix"
+      display: "Netflix"
+    - name: "hystrix"
+      display: "Hystrix"
 ---
 
 **Quando**: sabato 30 maggio 2015 dalle 9 alle 12:40

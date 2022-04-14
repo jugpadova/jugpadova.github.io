@@ -6,6 +6,10 @@ author_data:
     username: "paolo.foletto"
     fullname: "Paolo Foletto"
     email: "pfoletto@tin.it"
+categories:
+    - name: "Recensioni"
+      permalink: "recensioni"
+tags:
 ---
 
 volevo segnalarvi la storia dei tre spaccapietre.

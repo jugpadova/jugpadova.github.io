@@ -6,6 +6,16 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "annuale"
+      display: "annuale"
+    - name: "assemblea"
+      display: "assemblea"
 ---
 
 **Quando**: Sabato 21 Settembre 2019 dalle 13:00 alle 15:00.

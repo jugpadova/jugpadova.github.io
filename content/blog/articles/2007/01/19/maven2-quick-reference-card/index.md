@@ -6,6 +6,22 @@ author_data:
     username: "michele.franzin"
     fullname: "Michele Franzin"
     email: "michele.franzin@jugpadova.it"
+categories:
+    - name: "Software"
+      permalink: "software"
+tags:
+    - name: "maven2"
+      display: "maven2"
+    - name: "mvn"
+      display: "mvn"
+    - name: "cheatsheet"
+      display: "cheatsheet"
+    - name: "quick"
+      display: "quick"
+    - name: "reference"
+      display: "reference"
+    - name: "card"
+      display: "card"
 ---
 
 For those who want everything under control, here's a usefull

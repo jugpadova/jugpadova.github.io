@@ -6,6 +6,24 @@ author_data:
     username: "michele.franzin"
     fullname: "Michele Franzin"
     email: "michele.franzin@jugpadova.it"
+categories:
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "java"
+      display: "java"
+    - name: "javapolis"
+      display: "javapolis"
+    - name: "conference"
+      display: "conference"
+    - name: "2006"
+      display: "2006"
+    - name: "antwerpen"
+      display: "antwerpen"
+    - name: "anversa"
+      display: "anversa"
+    - name: "jp06"
+      display: "jp06"
 ---
 
 Come da tradizione anche quest'anno ci siamo spinti a nord per

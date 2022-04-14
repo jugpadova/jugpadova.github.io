@@ -6,6 +6,18 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Software"
+      permalink: "software"
+tags:
+    - name: "google"
+      display: "google"
+    - name: "web"
+      display: "web"
+    - name: "ajax"
+      display: "ajax"
+    - name: "toolkit"
+      display: "toolkit"
 ---
 Sembra che finalmente si potrà cambiare la maniera di scrivere le applicazioni Web.
 

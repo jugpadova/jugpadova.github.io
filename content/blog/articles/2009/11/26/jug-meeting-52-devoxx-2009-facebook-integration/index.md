@@ -6,6 +6,20 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "devoxx"
+      display: "Devoxx"
+    - name: "2009"
+      display: "2009"
+    - name: "facebook"
+      display: "Facebook"
+    - name: "integration"
+      display: "integration"
 ---
 
 JUG Meeting\#52: Devoxx 2009, Facebook integration

@@ -6,6 +6,16 @@ author_data:
     username: "paolo.dona"
     fullname: "Paolo Dona'"
     email: "paolo.dona@jugpadova.it"
+categories:
+tags:
+    - name: "class"
+      display: "class"
+    - name: "classloader"
+      display: "classloader"
+    - name: "jar"
+      display: "jar"
+    - name: "java"
+      display: "java"
 ---
 Sometimes in production environments I face problems never encountered during development... It's a general thing.. could happen with jdbc drivers or xml parsers.
  

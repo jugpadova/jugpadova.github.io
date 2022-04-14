@@ -6,6 +6,22 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "groovy"
+      display: "groovy"
+    - name: "grails"
+      display: "grails"
+    - name: "sales"
+      display: "sales"
+    - name: "force"
+      display: "force"
+    - name: "automation"
+      display: "automation"
+    - name: "sfa"
+      display: "sfa"
 ---
 
 **Quando:** sabato 17 maggio 2008 dalle 9:00 alle 12:30

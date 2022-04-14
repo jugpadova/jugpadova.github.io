@@ -6,6 +6,16 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "kubernetes"
+      display: "kubernetes"
+    - name: "openshift"
+      display: "openshift"
 ---
 
 **Quando**: venerdì 12 Aprile 2019 ore 19:00

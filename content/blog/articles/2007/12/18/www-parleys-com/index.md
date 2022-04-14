@@ -6,6 +6,10 @@ author_data:
     username: "paolo.foletto"
     fullname: "Paolo Foletto"
     email: "pfoletto@tin.it"
+categories:
+    - name: "Recensioni"
+      permalink: "recensioni"
+tags:
 ---
 
 come sviluppare uno strumento per la diffusione e la condivisione delle

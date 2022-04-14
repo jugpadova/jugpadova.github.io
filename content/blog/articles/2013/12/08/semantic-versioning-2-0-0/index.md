@@ -6,6 +6,12 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+tags:
+    - name: "specifica"
+      display: "specifica"
+    - name: "versione"
+      display: "versione"
 ---
 
 Il JUG Padova ha tradotto in italiano la specifica [Semantic Versioning

@@ -6,6 +6,18 @@ author_data:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "jug"
+      display: "JUG"
+    - name: "plugin"
+      display: "plugin"
+    - name: "algoritmi"
+      display: "algoritmi"
+    - name: "padova"
+      display: "Padova"
 ---
 
 **Quando:** Sabato 24 novembre 2007 dalle 09:15 alle 12:30

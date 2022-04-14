@@ -6,6 +6,8 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+tags:
 ---
 
 **Quando**: sabato 24 ottobre 2015 dalle 9:15 alle 12:30

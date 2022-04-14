@@ -6,6 +6,22 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Tips & Tricks"
+      permalink: "tips-and-tricks"
+    - name: "Software"
+      permalink: "software"
+tags:
+    - name: "iterable"
+      display: "Iterable"
+    - name: "iterator"
+      display: "Iterator"
+    - name: "for"
+      display: "for"
+    - name: "reflection"
+      display: "reflection"
+    - name: "proxy"
+      display: "proxy"
 ---
 (You'll find all the code of this post in [Benfante's Utilities](http://www.benfante.com/bensite/sourcecode.jsf) mini-library)
 

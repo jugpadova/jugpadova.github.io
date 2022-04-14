@@ -6,6 +6,16 @@ author_data:
     username: "dario.santamaria"
     fullname: "Dario Santamaria"
     email: "dario.santamaria@jugpadova.it"
+categories:
+    - name: "Software"
+      permalink: "software"
+tags:
+    - name: "java3d"
+      display: "Java3D"
+    - name: "opengl"
+      display: "openGL"
+    - name: "openal"
+      display: "openAL"
 ---
 
 After several years of development, finally the first stable release of

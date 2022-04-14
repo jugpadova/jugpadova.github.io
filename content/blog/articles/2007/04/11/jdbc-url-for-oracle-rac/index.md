@@ -6,6 +6,14 @@ author_data:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"
+categories:
+    - name: "Tips & Tricks"
+      permalink: "tips-and-tricks"
+tags:
+    - name: "jdbc"
+      display: "jdbc"
+    - name: "oracle"
+      display: "oracle"
 ---
 
 If you have to connect to oracle RAC (Real Application Cluster) using

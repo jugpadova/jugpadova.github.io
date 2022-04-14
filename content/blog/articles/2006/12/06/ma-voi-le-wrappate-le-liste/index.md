@@ -6,6 +6,12 @@ author_data:
     username: "paolo.dona"
     fullname: "Paolo Dona'"
     email: "paolo.dona@jugpadova.it"
+categories:
+    - name: "Tips & Tricks"
+      permalink: "tips-and-tricks"
+tags:
+    - name: "list"
+      display: "list"
 ---
 
 Ciao, in un progetto su cui sto lavorando sto provando un approccio che

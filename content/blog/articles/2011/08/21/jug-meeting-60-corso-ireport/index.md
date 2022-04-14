@@ -6,6 +6,18 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Software"
+      permalink: "software"
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "corso"
+      display: "Corso"
+    - name: "ireport"
+      display: "ireport"
 ---
 
 JUG Meeting\#60: Corso iReport

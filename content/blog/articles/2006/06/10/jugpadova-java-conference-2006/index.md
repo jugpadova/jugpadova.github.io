@@ -6,6 +6,12 @@ author_data:
     username: "andrea.nasato"
     fullname: "Andrea Nasato"
     email: "andrea.nasato@jugpadova.it"
+categories:
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "javaconference"
+      display: "JavaConference"
 ---
 <a href="http://it.sun.com/eventi/jc06/index.html"><img src="http://it.sun.com/eventi/jc06/images/jc06_big_.jpg" alt="Java Conference 2006" width="150" border="0" align="left" HSPACE="10" VSPACE="10" /></a>
 

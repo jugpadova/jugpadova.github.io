@@ -6,6 +6,20 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Tips & Tricks"
+      permalink: "tips-and-tricks"
+    - name: "Programmazione"
+      permalink: "programmazione"
+tags:
+    - name: "tomcat"
+      display: "Tomcat"
+    - name: "javamail"
+      display: "JavaMail"
+    - name: "jndi"
+      display: "JNDI"
+    - name: "bug"
+      display: "bug"
 ---
 _You'll find an article in italian on the same topic in [my personal blog](http://benfante.blogspot.com/2007/03/tomcat-castrato.html)._
 

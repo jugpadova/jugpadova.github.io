@@ -6,6 +6,12 @@ author_data:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"
+categories:
+    - name: "Software"
+      permalink: "software"
+tags:
+    - name: "torpark"
+      display: "torpark"
 ---
 
 AAMS, a branch of italian government, impose to all Italian Internet

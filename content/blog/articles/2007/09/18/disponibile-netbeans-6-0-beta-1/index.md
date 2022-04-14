@@ -6,6 +6,14 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Software"
+      permalink: "software"
+tags:
+    - name: "ide"
+      display: "ide"
+    - name: "netbeans"
+      display: "netbeans"
 ---
 
 Procede la corsa verso la release di NetBeans 6, prevista per fine

@@ -6,6 +6,26 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "eclipse"
+      display: "Eclipse"
+    - name: "netbeans"
+      display: "netbeans"
+    - name: "jdbc"
+      display: "jdbc"
+    - name: "jpa"
+      display: "JPA"
+    - name: "spring"
+      display: "spring"
+    - name: "rdf"
+      display: "RDF"
+    - name: "grails"
+      display: "grails"
 ---
 
 JavaDay Verona 2009

@@ -6,6 +6,18 @@ author_data:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "generics"
+      display: "Generics"
+    - name: "collections"
+      display: "Collections"
+    - name: "project"
+      display: "project"
+    - name: "management"
+      display: "management"
 ---
 
 **Quando:** Sabato 23 febbraio 2008 dalle 09:15 alle 12:30

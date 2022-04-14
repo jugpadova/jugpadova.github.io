@@ -6,6 +6,20 @@ author_data:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "meeting"
+      display: "meeting"
+    - name: "jboss"
+      display: "jboss"
+    - name: "seam"
+      display: "seam"
+    - name: "afresco"
+      display: "afresco"
+    - name: "javapolis"
+      display: "javapolis"
 ---
 
 **Quando:** Sabato 15 dicembre 2007 dalle 09:15 alle 12:30

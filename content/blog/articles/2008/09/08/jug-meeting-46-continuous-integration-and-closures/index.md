@@ -6,6 +6,16 @@ author_data:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "continuous"
+      display: "Continuous"
+    - name: "integration"
+      display: "integration"
+    - name: "closures"
+      display: "closures"
 ---
 
 **Quando:** sabato 27 settembre 2008 dalle 9:00 alle 12:30

@@ -6,6 +6,20 @@ author_data:
     username: "dario.santamaria"
     fullname: "Dario Santamaria"
     email: "dario.santamaria@jugpadova.it"
+categories:
+    - name: "Tips & Tricks"
+      permalink: "tips-and-tricks"
+    - name: "Programmazione"
+      permalink: "programmazione"
+tags:
+    - name: "android"
+      display: "android"
+    - name: "eclipse"
+      display: "Eclipse"
+    - name: "debian"
+      display: "debian"
+    - name: "tutorial"
+      display: "tutorial"
 ---
 
 Questo tutorial ha lo scopo di guidarvi passo passo nella creazione e

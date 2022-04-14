@@ -6,6 +6,20 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "devoxx"
+      display: "Devoxx"
+    - name: "selenium"
+      display: "selenium"
+    - name: "android"
+      display: "android"
+    - name: "grails"
+      display: "grails"
 ---
 
 JUG meeting\#56: Devoxx 2010 report, selenium test, android, Grails

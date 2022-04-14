@@ -6,6 +6,12 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "javaday"
+      display: "javaday"
 ---
 
 Sabato scorso [io (Lucio)](http://benfante.blogspot.com) ed

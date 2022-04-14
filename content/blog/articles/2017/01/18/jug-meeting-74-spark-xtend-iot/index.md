@@ -6,6 +6,18 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "spark"
+      display: "Spark"
+    - name: "xtend"
+      display: "xtend"
+    - name: "iot"
+      display: "iot"
 ---
 
 **Quando**: sabato 28 Gennaio 2017

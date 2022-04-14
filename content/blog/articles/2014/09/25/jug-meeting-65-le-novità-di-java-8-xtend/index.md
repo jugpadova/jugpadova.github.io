@@ -6,6 +6,18 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "java"
+      display: "java"
+    - name: "8"
+      display: "8"
+    - name: "xtend"
+      display: "xtend"
 ---
 
 **Quando**: sabato 25 ottobre 2014 dalle 9 alle 12:30

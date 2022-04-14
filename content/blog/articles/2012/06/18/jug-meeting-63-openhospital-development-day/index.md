@@ -6,6 +6,16 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+    - name: "Programmazione"
+      permalink: "programmazione"
+tags:
+    - name: "openhospital"
+      display: "openhospital"
 ---
 
 **Quando**: sabato 23/06/2012 dalle ore 9:00 alle ore 18:00

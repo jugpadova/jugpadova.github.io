@@ -6,6 +6,16 @@ author_data:
     username: "paolo.foletto"
     fullname: "Paolo Foletto"
     email: "pfoletto@tin.it"
+categories:
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "jug"
+      display: "JUG"
+    - name: "padova"
+      display: "Padova"
+    - name: "alonte"
+      display: "Alonte"
 ---
 
 Domenica ci siamo trovati nella sede estiva del JugPadova a Alonte.\

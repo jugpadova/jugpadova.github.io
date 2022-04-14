@@ -6,6 +6,14 @@ author_data:
     username: "emanuele.gesuato"
     fullname: "Emanuele Gesuato"
     email: ""
+categories:
+    - name: "Tips & Tricks"
+      permalink: "tips-and-tricks"
+tags:
+    - name: "jar"
+      display: "jar"
+    - name: "resource"
+      display: "resource"
 ---
 Sometimes it is useful to distribute an application in a jar file through Java Web Start or any other way. So, you could have to read some resource (images or properties file) from inside a jar. 
 How can you do it ? It's very simple, here's an example to retrieve an image:

@@ -6,6 +6,18 @@ author_data:
     username: "paolo.foletto"
     fullname: "Paolo Foletto"
     email: "pfoletto@tin.it"
+categories:
+    - name: "Software"
+      permalink: "software"
+tags:
+    - name: "open"
+      display: "open"
+    - name: "java"
+      display: "java"
+    - name: "project"
+      display: "project"
+    - name: "management"
+      display: "management"
 ---
 
 Volevo segnalare unprogetto open source scritto in Java.\

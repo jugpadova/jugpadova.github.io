@@ -6,6 +6,16 @@ author_data:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "parancoe"
+      display: "Parancoe"
+    - name: "jazoon"
+      display: "jazoon"
+    - name: "validation"
+      display: "validation"
 ---
 
 **Quando:** Sabato 19 maggio 2007 dalle 09:15 alle 12:30

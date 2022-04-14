@@ -6,6 +6,18 @@ author_data:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "meeting"
+      display: "meeting"
+    - name: "parancoe"
+      display: "Parancoe"
+    - name: "dao"
+      display: "DAO"
+    - name: "acegi"
+      display: "acegi"
 ---
 
 **Quando:** Sabato 28 Aprile 2007 dalle 09:15 alle 12:30

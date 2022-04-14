@@ -6,6 +6,16 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "portofino"
+      display: "portofino"
+    - name: "scrum"
+      display: "scrum"
 ---
 
 **Quando**: sabato 28 febbraio 2015 dalle 9 alle 12:30

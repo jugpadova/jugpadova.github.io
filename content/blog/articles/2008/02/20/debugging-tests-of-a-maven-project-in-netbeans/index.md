@@ -6,6 +6,20 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Tips & Tricks"
+      permalink: "tips-and-tricks"
+    - name: "Programmazione"
+      permalink: "programmazione"
+tags:
+    - name: "maven"
+      display: "maven"
+    - name: "test"
+      display: "test"
+    - name: "debug"
+      display: "debug"
+    - name: "netbeans"
+      display: "netbeans"
 ---
 
 Occasionally I experienced some problems in debugging test classes using

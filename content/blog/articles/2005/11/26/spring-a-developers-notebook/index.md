@@ -6,6 +6,14 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Recensioni"
+      permalink: "recensioni"
+tags:
+    - name: "book"
+      display: "book"
+    - name: "spring"
+      display: "spring"
 ---
 <table>
 <tr>
@@ -36,7 +44,6 @@ L'ultimo capitolo ritorna sullo strato di interfaccia, mostrando la realizzazion
 * per mostrare i vantaggi dell'utilizzo di Spring, spesso dedica troppo spazio a come si programmerebbe senza Spring. Ad esempio, delle diciassette pagine del primo capitolo solo due parlano realmente di Spring.
 
 <hr/>
-
 Questo libro fa parte della <b>JUG Padova Library</b>.<br/>
-Attualmente &egrave; affidato in custodia a [Lucio Benfante](mailto:lucio.benfante@jugpadova.it)
-.
+Attualmente &egrave; affidato in custodia a [Lucio Benfante](mailto:lucio.benfante@jugpadova.it).
+

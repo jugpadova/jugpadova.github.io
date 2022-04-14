@@ -6,6 +6,16 @@ author_data:
     username: "andrea.nasato"
     fullname: "Andrea Nasato"
     email: "andrea.nasato@jugpadova.it"
+categories:
+    - name: "Programmazione"
+      permalink: "programmazione"
+tags:
+    - name: "java"
+      display: "java"
+    - name: "closures"
+      display: "closures"
+    - name: "gosling"
+      display: "Gosling"
 ---
 
 No, non avete letto male, non è ancora uscita la release ufficiale di

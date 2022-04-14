@@ -6,6 +6,16 @@ author_data:
     username: "andrea.nasato"
     fullname: "Andrea Nasato"
     email: "andrea.nasato@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "aop"
+      display: "AOP"
+    - name: "google"
+      display: "google"
+    - name: "search"
+      display: "search"
 ---
 
 **Quando:** Sabato 18 Febbraio 2006 dalle 09:00 alle 12:30

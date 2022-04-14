@@ -6,6 +6,16 @@ author_data:
     username: "andrea.stefani"
     fullname: "Andrea Stefani"
     email: ""
+categories:
+    - name: "Software"
+      permalink: "software"
+tags:
+    - name: "java3d"
+      display: "Java3D"
+    - name: "3d"
+      display: "3D"
+    - name: "jogl"
+      display: "JOGL"
 ---
 
 In these days, the version 1.4 of the \[Java 3D

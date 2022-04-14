@@ -6,6 +6,16 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "java3d"
+      display: "Java3D"
+    - name: "jee"
+      display: "JEE"
+    - name: "ejb"
+      display: "EJB"
 ---
 
 **Quando:** Sabato 21 Ottobre 2006 dalle 09:00 alle 13:00

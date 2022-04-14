@@ -6,6 +6,18 @@ author_data:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "meeting"
+      display: "meeting"
+    - name: "short"
+      display: "short"
+    - name: "presentation"
+      display: "presentation"
+    - name: "java"
+      display: "java"
 ---
 
 **Quando:** sabato 12 luglio 2008 dalle 9:00 alle 12:30

@@ -6,6 +6,12 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "People"
+      permalink: "people"
+tags:
+    - name: "people"
+      display: "people"
 ---
 
 Felipe Gaúcho was one of the best promoters and supporters of the JUG

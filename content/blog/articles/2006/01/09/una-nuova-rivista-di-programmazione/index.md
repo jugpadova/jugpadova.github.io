@@ -6,6 +6,16 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Interviste"
+      permalink: "interviste"
+tags:
+    - name: "java"
+      display: "java"
+    - name: "programmazione"
+      display: "programmazione"
+    - name: "rivista"
+      display: "rivista"
 ---
 Nei prossimi mesi uscir&agrave; in edicola una nuova rivista dedicata alla programmazione Java. Michele Sciabarr&agrave;, che ne sar&agrave; il direttore, ha accettato di rispondere a qualche domanda via posta elettronica su questo progetto editoriale.
 

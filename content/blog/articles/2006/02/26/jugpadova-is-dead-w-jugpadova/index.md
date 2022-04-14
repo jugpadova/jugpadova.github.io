@@ -6,6 +6,14 @@ author_data:
     username: "michele.franzin"
     fullname: "Michele Franzin"
     email: "michele.franzin@jugpadova.it"
+categories:
+tags:
+    - name: "server"
+      display: "server"
+    - name: "intrusion"
+      display: "intrusion"
+    - name: "downtime"
+      display: "downtime"
 ---
 
 During the last 5 days the server hosting Jug Padova has been

@@ -6,6 +6,22 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "art"
+      display: "art"
+    - name: "68"
+      display: "68"
+    - name: "cad"
+      display: "CAD"
+    - name: "linee"
+      display: "linee"
+    - name: "guida"
+      display: "guida"
+    - name: "agid"
+      display: "AgId"
 ---
 
 Il Java User Group Padova [ha partecipato al Tavolo di

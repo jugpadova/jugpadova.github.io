@@ -6,6 +6,14 @@ author_data:
     username: "andrea.nasato"
     fullname: "Andrea Nasato"
     email: "andrea.nasato@jugpadova.it"
+categories:
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "javaconference"
+      display: "JavaConference"
+    - name: "gosling"
+      display: "Gosling"
 ---
 <typo:flickr img="176254354" size="small"/>
 

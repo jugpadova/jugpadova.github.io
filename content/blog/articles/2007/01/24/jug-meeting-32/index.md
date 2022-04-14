@@ -6,6 +6,22 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "meeting"
+      display: "meeting"
+    - name: "xp"
+      display: "XP"
+    - name: "parancoe"
+      display: "Parancoe"
+    - name: "maven"
+      display: "maven"
+    - name: "continuum"
+      display: "continuum"
+    - name: "core"
+      display: "CoRE"
 ---
 
 **Quando:** Sabato 10 Febraio 2007 dalle 09:00 alle 13:00

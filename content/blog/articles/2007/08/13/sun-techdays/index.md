@@ -6,6 +6,14 @@ author_data:
     username: "paolo.foletto"
     fullname: "Paolo Foletto"
     email: "pfoletto@tin.it"
+categories:
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "techdays"
+      display: "TechDays"
+    - name: "netbeansdays"
+      display: "NetbeansDays"
 ---
 
 Quest'anno Sun\

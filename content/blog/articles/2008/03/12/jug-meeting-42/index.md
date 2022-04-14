@@ -6,6 +6,14 @@ author_data:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "android"
+      display: "android"
+    - name: "weboe"
+      display: "weboe"
 ---
 
 **Quando:** Sabato 29 marzo 2008 dalle 09:15 alle 12:30

@@ -6,6 +6,16 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Tips & Tricks"
+      permalink: "tips-and-tricks"
+tags:
+    - name: "java"
+      display: "java"
+    - name: "quiz"
+      display: "quiz"
+    - name: "certification"
+      display: "certification"
 ---
 "La vera saggezza sta in colui che sa di non sapere! Perchè io so di sapere più di te, che pensi di sapere." (Socrate) Allora i programmatori Java dovrebbero essere molto saggi, perchè dovrebbero essere convinti di (non) conoscere <code>null</code> molto bene. Ma siamo così sicuri?
 

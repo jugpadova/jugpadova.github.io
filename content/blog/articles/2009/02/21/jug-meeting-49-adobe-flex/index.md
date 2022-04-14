@@ -6,6 +6,16 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "adobe"
+      display: "Adobe"
+    - name: "platform"
+      display: "Platform"
+    - name: "flex"
+      display: "Flex"
 ---
 
 **Quando:** sabato 21 marzo 2009 dalle 9:00 alle 12:30

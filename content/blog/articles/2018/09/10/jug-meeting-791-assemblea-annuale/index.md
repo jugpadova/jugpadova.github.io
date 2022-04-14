@@ -6,6 +6,16 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "annuale"
+      display: "annuale"
+    - name: "assemblea"
+      display: "assemblea"
 ---
 
 **Quando**: Domenica 16 Settembre 2018 dalle 20:00 alle 22:00.

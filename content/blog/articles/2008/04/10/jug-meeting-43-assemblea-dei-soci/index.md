@@ -6,6 +6,16 @@ author_data:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "assemblea"
+      display: "assemblea"
+    - name: "sistemi"
+      display: "sistemi"
+    - name: "legacy"
+      display: "legacy"
 ---
 
 **Quando:** sabato 19 aprile 2008 dalle 9,15 alle 12,30

@@ -6,6 +6,20 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "pit"
+      display: "pit"
+    - name: "testing"
+      display: "testing"
+    - name: "j2me"
+      display: "j2me"
+    - name: "iot"
+      display: "iot"
 ---
 
 **Quando**: sabato 8 ottobre 2016 dalle 9:00 alle 12:30

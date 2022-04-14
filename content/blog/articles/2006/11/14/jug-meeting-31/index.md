@@ -6,6 +6,20 @@ author_data:
     username: "andrea.nasato"
     fullname: "Andrea Nasato"
     email: "andrea.nasato@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "patterns"
+      display: "patterns"
+    - name: "watermarking"
+      display: "watermarking"
+    - name: "tamper"
+      display: "tamper"
+    - name: "proofing"
+      display: "proofing"
+    - name: "obfuscation"
+      display: "obfuscation"
 ---
 
 **Quando:** Sabato 18 Novembre 2006 dalle 09:00 alle 13:00

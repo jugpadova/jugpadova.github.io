@@ -6,6 +6,20 @@ author_data:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"
+categories:
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "parancoe"
+      display: "Parancoe"
+    - name: "jazoon"
+      display: "jazoon"
+    - name: "mvc"
+      display: "MVC"
+    - name: "dry"
+      display: "DRY"
+    - name: "coc"
+      display: "COC"
 ---
 
 On June 26th <a href="https://parancoe.dev.java.net/">Parancoe</a> will

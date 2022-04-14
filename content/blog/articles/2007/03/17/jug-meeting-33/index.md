@@ -6,6 +6,14 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "meeting"
+      display: "meeting"
+    - name: "workshop"
+      display: "workshop"
 ---
 
 **Quando:** Sabato 24 Marzo 2007 dalle 09:00 alle 13:00

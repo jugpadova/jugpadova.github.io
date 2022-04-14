@@ -6,6 +6,18 @@ author_data:
     username: "dario.santamaria"
     fullname: "Dario Santamaria"
     email: "dario.santamaria@jugpadova.it"
+categories:
+    - name: "Software"
+      permalink: "software"
+tags:
+    - name: "xj3d"
+      display: "Xj3D"
+    - name: "3d"
+      display: "3D"
+    - name: "x3d"
+      display: "X3D"
+    - name: "vrml"
+      display: "VRML"
 ---
 
 Xj3D is an open source X3D browser, developer library and test

@@ -6,6 +6,16 @@ author_data:
     username: "dario.santamaria"
     fullname: "Dario Santamaria"
     email: "dario.santamaria@jugpadova.it"
+categories:
+    - name: "Software"
+      permalink: "software"
+tags:
+    - name: "ide"
+      display: "ide"
+    - name: "debian"
+      display: "debian"
+    - name: "netbeans"
+      display: "netbeans"
 ---
 
 Da qualche giorno NetBeans è stato inserito nei pacchetti ufficiali

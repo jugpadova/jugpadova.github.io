@@ -6,6 +6,18 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Programmazione"
+      permalink: "programmazione"
+tags:
+    - name: "bug"
+      display: "bug"
+    - name: "binary"
+      display: "binary"
+    - name: "search"
+      display: "search"
+    - name: "overflow"
+      display: "overflow"
 ---
 ...presente nel JDK, e probabilmente nella maggior parte delle implementazioni di algoritmi con approccio "divide et impera".
 

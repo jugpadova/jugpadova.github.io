@@ -6,6 +6,16 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "meeting"
+      display: "meeting"
+    - name: "jdk"
+      display: "jdk"
 ---
 
 **Quando**: venerdì 31 Gennaio 2020 ore 18:30

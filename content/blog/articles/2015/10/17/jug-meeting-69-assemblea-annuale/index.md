@@ -6,6 +6,18 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+    - name: "Programmazione"
+      permalink: "programmazione"
+tags:
+    - name: "assemblea"
+      display: "assemblea"
+    - name: "annuale"
+      display: "annuale"
 ---
 
 **Quando**: sabato 17 luglio 2015 dalle 9:15 alle 12:30

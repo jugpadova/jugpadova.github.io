@@ -6,6 +6,16 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "assemblea"
+      display: "assemblea"
+    - name: "annuale"
+      display: "annuale"
 ---
 
 **Quando**: sabato 14 Maggio 2016 dalle 12:00 alle 15:30

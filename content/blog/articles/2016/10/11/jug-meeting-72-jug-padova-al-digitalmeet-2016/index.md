@@ -6,6 +6,22 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "performance"
+      display: "performance"
+    - name: "iot"
+      display: "iot"
+    - name: "front"
+      display: "front"
+    - name: "end"
+      display: "end"
+    - name: "java"
+      display: "java"
 ---
 
 **Quando**: sabato 22 ottobre 2016 dalle 9:30 alle 11:30

@@ -6,6 +6,14 @@ author_data:
     username: "andrea.nasato"
     fullname: "Andrea Nasato"
     email: "andrea.nasato@jugpadova.it"
+categories:
+    - name: "Tips & Tricks"
+      permalink: "tips-and-tricks"
+tags:
+    - name: "xom"
+      display: "xom"
+    - name: "xml"
+      display: "xml"
 ---
 
 Today I want to introduce you into XOM, which is one of the two

@@ -6,6 +6,16 @@ author_data:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "scrum"
+      display: "scrum"
+    - name: "ireport"
+      display: "ireport"
+    - name: "jasperreport"
+      display: "jasperreport"
 ---
 
 **Quando:** Sabato 26 gennaio 2008 dalle 09:15 alle 12:30

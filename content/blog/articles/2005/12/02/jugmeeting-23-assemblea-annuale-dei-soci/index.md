@@ -6,6 +6,10 @@ author_data:
     username: "paolo.dona"
     fullname: "Paolo Dona'"
     email: "paolo.dona@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
 ---
 
 **Quando:** Sabato 3 Dicembre 2005 dalle 09:00 alle 12:30

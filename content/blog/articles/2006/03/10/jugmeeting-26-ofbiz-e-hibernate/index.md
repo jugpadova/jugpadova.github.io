@@ -6,6 +6,18 @@ author_data:
     username: "andrea.nasato"
     fullname: "Andrea Nasato"
     email: "andrea.nasato@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "ofbiz"
+      display: "OFBiz"
+    - name: "hibernate"
+      display: "Hibernate"
+    - name: "annotation"
+      display: "annotation"
+    - name: "intellij"
+      display: "IntelliJ"
 ---
 
 **Quando:** Sabato 18 Marzo 2006 dalle 09:00 alle 12:30

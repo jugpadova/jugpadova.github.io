@@ -6,6 +6,18 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "java"
+      display: "java"
+    - name: "7"
+      display: "7"
+    - name: "features"
+      display: "features"
 ---
 
 JUG Meeting\#59: Java 7 Launch

@@ -6,6 +6,14 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "jazoon"
+      display: "jazoon"
+    - name: "conference"
+      display: "conference"
 ---
 Considerando che era la prima edizione, non è stato male...
 

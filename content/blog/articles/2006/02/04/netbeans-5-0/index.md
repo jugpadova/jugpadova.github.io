@@ -6,6 +6,14 @@ author_data:
     username: "dario.santamaria"
     fullname: "Dario Santamaria"
     email: "dario.santamaria@jugpadova.it"
+categories:
+    - name: "Software"
+      permalink: "software"
+tags:
+    - name: "netbeans"
+      display: "netbeans"
+    - name: "ide"
+      display: "ide"
 ---
 The stable version of my favourite Java IDE - <b>NetBeans 5.0</b> - is out!<br />
 <br />

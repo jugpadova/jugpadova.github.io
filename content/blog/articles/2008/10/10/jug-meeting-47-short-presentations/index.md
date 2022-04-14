@@ -6,6 +6,10 @@ author_data:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
 ---
 
 Solo per ricordarvi che sabato <strong>18 Ottobre</strong> ci sara' il

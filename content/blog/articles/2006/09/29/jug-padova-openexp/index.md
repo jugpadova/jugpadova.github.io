@@ -6,6 +6,14 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Eventi"
+      permalink: "eventi"
+tags:
+    - name: "openexp"
+      display: "OpenExp"
+    - name: "cerea"
+      display: "Cerea"
 ---
 Oggi (29/9) è cominciato l'[OpenExp](http://www.openexp.it) a Cerea. Il JUG Padova, come potete vedere dalla foto, è presente con il suo stand modello campo da calcio!
 

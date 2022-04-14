@@ -6,6 +6,16 @@ author_data:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"
+categories:
+    - name: "Recensioni"
+      permalink: "recensioni"
+tags:
+    - name: "ruby"
+      display: "ruby"
+    - name: "enterprise"
+      display: "enterprise"
+    - name: "integration"
+      display: "integration"
 ---
 
 <table>

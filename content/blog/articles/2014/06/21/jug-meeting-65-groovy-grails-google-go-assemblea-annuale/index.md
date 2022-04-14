@@ -6,6 +6,24 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+    - name: "Programmazione"
+      permalink: "programmazione"
+tags:
+    - name: "groovy"
+      display: "groovy"
+    - name: "grayls"
+      display: "grayls"
+    - name: "google"
+      display: "google"
+    - name: "go"
+      display: "go"
+    - name: "assemblea"
+      display: "assemblea"
 ---
 
 **Quando**: sabato 28 giugno 2014 dalle 9 alle 12:30

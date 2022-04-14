@@ -6,6 +6,20 @@ author_data:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+    - name: "Eventi"
+      permalink: "eventi"
+    - name: "Programmazione"
+      permalink: "programmazione"
+tags:
+    - name: "ruby"
+      display: "ruby"
+    - name: "jruby"
+      display: "JRuby"
+    - name: "2.0"
+      display: "2.0"
 ---
 
 **Quando**: sabato 2 marzo dalle 9 alle 12:30

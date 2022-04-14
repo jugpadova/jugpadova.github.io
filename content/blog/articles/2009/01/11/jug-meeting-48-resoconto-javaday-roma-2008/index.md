@@ -6,6 +6,22 @@ author_data:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"
+categories:
+    - name: "Meeting"
+      permalink: "meeting"
+tags:
+    - name: "meeting"
+      display: "meeting"
+    - name: "roma"
+      display: "Roma"
+    - name: "2008"
+      display: "2008"
+    - name: "controller"
+      display: "controller"
+    - name: "annotati"
+      display: "annotati"
+    - name: "annotated"
+      display: "annotated"
 ---
 
 **Quando:** sabato 7 febbraio 2009 dalle 9:00 alle 12:30
