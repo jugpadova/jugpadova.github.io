@@ -1,9 +1,19 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
 
-import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import Author from "../components/author"
+import styled from "styled-components"
+
+const AuthorWrapper = styled.span`
+  display: flex;
+  align-items: center;
+  font-size: 0.8em;
+  & > * {
+    margin-right: 0.5em;
+  }
+`
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
@@ -13,7 +23,6 @@ const BlogIndex = ({ data, location }) => {
     return (
       <Layout location={location} title={siteTitle}>
         <Seo title="All posts" />
-        <Bio />
         <p>
           No blog posts found. Add markdown posts to "content/blog" (or the
           directory you specified for the "gatsby-source-filesystem" plugin in
@@ -26,7 +35,6 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="All posts" />
-      <Bio />
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
@@ -44,7 +52,10 @@ const BlogIndex = ({ data, location }) => {
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </h2>
-                  <small>{post.frontmatter.date}</small>
+                  <AuthorWrapper>
+                    <Author {...post.frontmatter.author_data} />
+                    <span>|</span><span>{post.frontmatter.date}</span>
+                  </AuthorWrapper>
                 </header>
                 <section>
                   <p
@@ -79,9 +90,15 @@ export const pageQuery = graphql`
           slug
         }
         frontmatter {
-          date(formatString: "MMMM DD, YYYY")
+          date(fromNow: true, locale: "it")
           title
           description
+          author
+          author_data {
+            username
+            fullname
+            email
+          }
         }
       }
     }

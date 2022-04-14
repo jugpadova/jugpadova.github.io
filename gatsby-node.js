@@ -106,6 +106,14 @@ exports.createSchemaCustomization = ({ actions }) => {
       title: String
       description: String
       date: Date @dateformat
+      author: String
+      author_data: PostAuthor
+    }
+
+    type PostAuthor {
+      username: String
+      fullname: String
+      email: String
     }
 
     type Fields {
