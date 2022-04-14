@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import Author from "../components/author"
+import Gravatar from "../components/gravatar"
 import styled from "styled-components"
 
 const AuthorWrapper = styled.span`
@@ -53,7 +53,7 @@ const BlogIndex = ({ data, location }) => {
                     </Link>
                   </h2>
                   <AuthorWrapper>
-                    <Author {...post.frontmatter.author} />
+                    <Gravatar {...post.frontmatter.author} />
                     <span>|</span>
                     <span>{post.frontmatter.date}</span>
                   </AuthorWrapper>
