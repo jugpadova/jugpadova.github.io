@@ -1,8 +1,7 @@
 ---
 title: "NetBeans 5.0"
 date: "2006-02-04T12:21:00Z"
-author: dario.santamaria
-author_data:
+author:
     username: "dario.santamaria"
     fullname: "Dario Santamaria"
     email: "dario.santamaria@jugpadova.it"

@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting #31"
 date: "2006-11-14T12:18:00Z"
-author: andrea.nasato
-author_data:
+author:
     username: "andrea.nasato"
     fullname: "Andrea Nasato"
     email: "andrea.nasato@jugpadova.it"

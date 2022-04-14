@@ -34,7 +34,7 @@ const BlogPostTemplate = ({ data, location }) => {
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <AuthorWrapper>
-            <Author {...post.frontmatter.author_data} />
+            <Author {...post.frontmatter.author} />
             <span>|</span><span>{post.frontmatter.date}</span>
           </AuthorWrapper>
         </header>
@@ -94,7 +94,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "DD MMMM YYYY", locale: "it")
         description
-        author_data {
+        author {
           username
           fullname
           email

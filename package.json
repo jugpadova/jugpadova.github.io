@@ -10,7 +10,7 @@
   "dependencies": {
     "babel-plugin-styled-components": "^2.0.6",
     "crypto-js": "^4.1.1",
-    "gatsby": "^4.11.3",
+    "gatsby": "^4.12.1",
     "gatsby-plugin-feed": "^4.10.2",
     "gatsby-plugin-gatsby-cloud": "^4.10.1",
     "gatsby-plugin-google-analytics": "^4.10.0",

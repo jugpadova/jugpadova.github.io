@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#52: Devoxx 2009, Facebook integration"
 date: "2009-11-26T11:54:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

@@ -53,8 +53,9 @@ const BlogIndex = ({ data, location }) => {
                     </Link>
                   </h2>
                   <AuthorWrapper>
-                    <Author {...post.frontmatter.author_data} />
-                    <span>|</span><span>{post.frontmatter.date}</span>
+                    <Author {...post.frontmatter.author} />
+                    <span>|</span>
+                    <span>{post.frontmatter.date}</span>
                   </AuthorWrapper>
                 </header>
                 <section>
@@ -83,7 +84,10 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      filter: { fileAbsolutePath: { regex: "/(/blog/)/" } }
+    ) {
       nodes {
         excerpt
         fields {
@@ -93,8 +97,7 @@ export const pageQuery = graphql`
           date(fromNow: true, locale: "it")
           title
           description
-          author
-          author_data {
+          author {
             username
             fullname
             email

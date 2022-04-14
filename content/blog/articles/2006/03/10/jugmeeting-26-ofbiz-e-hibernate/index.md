@@ -1,8 +1,7 @@
 ---
 title: "JUGMeeting #26 - \"OFBiz e Hibernate\""
 date: "2006-03-10T11:12:00Z"
-author: andrea.nasato
-author_data:
+author:
     username: "andrea.nasato"
     fullname: "Andrea Nasato"
     email: "andrea.nasato@jugpadova.it"

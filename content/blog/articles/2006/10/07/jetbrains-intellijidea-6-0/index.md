@@ -1,8 +1,7 @@
 ---
 title: "JetBrains IntellijIDEA 6.0"
 date: "2006-10-07T07:34:00Z"
-author: dario.santamaria
-author_data:
+author:
     username: "dario.santamaria"
     fullname: "Dario Santamaria"
     email: "dario.santamaria@jugpadova.it"

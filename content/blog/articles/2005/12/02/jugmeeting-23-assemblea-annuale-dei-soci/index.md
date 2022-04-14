@@ -1,8 +1,7 @@
 ---
 title: "JUGMeeting #23 - Assemblea Annuale dei soci"
 date: "2005-12-02T23:09:00Z"
-author: paolo.dona
-author_data:
+author:
     username: "paolo.dona"
     fullname: "Paolo Dona'"
     email: "paolo.dona@jugpadova.it"

@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#64: Ruby e JRuby"
 date: "2013-02-18T02:52:00Z"
-author: enrico.giurin
-author_data:
+author:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"

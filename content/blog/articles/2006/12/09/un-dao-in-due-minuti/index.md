@@ -1,8 +1,7 @@
 ---
 title: "Un DAO in DUE minuti"
 date: "2006-12-09T05:40:00Z"
-author: lucio.benfante
-author_data:
+author:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"

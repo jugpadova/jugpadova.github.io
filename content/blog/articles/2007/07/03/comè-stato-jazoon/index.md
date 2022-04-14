@@ -1,8 +1,7 @@
 ---
 title: "Com'è stato Jazoon?"
 date: "2007-07-03T06:06:00Z"
-author: lucio.benfante
-author_data:
+author:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"

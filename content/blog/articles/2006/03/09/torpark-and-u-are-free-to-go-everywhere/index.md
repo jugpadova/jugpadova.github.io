@@ -1,8 +1,7 @@
 ---
 title: "Torpark...and u are free to go everywhere"
 date: "2006-03-09T19:16:00Z"
-author: enrico.giurin
-author_data:
+author:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"

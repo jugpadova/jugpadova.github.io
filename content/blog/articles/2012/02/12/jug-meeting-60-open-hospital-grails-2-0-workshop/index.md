@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#61: Open Hospital & Grails 2.0 Workshop"
 date: "2012-02-12T06:52:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

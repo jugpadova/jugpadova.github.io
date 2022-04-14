@@ -1,8 +1,7 @@
 ---
 title: " JUG Meeting#80: Cloud Native Applications Using Docker and Kubernetes (OpenShift)"
 date: "2019-04-14T12:26:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

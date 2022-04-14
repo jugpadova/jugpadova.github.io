@@ -1,8 +1,7 @@
 ---
 title: "JUGMeeting #27 - \"Grid technologies e Sun free software\""
 date: "2006-03-26T15:14:00Z"
-author: andrea.nasato
-author_data:
+author:
     username: "andrea.nasato"
     fullname: "Andrea Nasato"
     email: "andrea.nasato@jugpadova.it"

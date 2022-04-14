@@ -1,8 +1,7 @@
 ---
 title: "Sun TechDays e NetBeans WorldTour2007/8"
 date: "2007-08-13T15:21:00Z"
-author: paolo.foletto
-author_data:
+author:
     username: "paolo.foletto"
     fullname: "Paolo Foletto"
     email: "pfoletto@tin.it"

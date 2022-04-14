@@ -1,8 +1,7 @@
 ---
 title: "Iterating on non-iterable classes"
 date: "2007-07-27T04:42:00Z"
-author: lucio.benfante
-author_data:
+author:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"

@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#67: Portofino e Scrum"
 date: "2015-02-19T14:27:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

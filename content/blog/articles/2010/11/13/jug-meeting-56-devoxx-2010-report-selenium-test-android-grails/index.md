@@ -1,8 +1,7 @@
 ---
 title: "JUG meeting#56: Devoxx 2010 report, selenium test, android, Grails"
 date: "2010-11-13T13:11:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#55: Android development with Flash Platform"
 date: "2010-08-07T06:31:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

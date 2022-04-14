@@ -1,8 +1,7 @@
 ---
 title: "Agri-Meeting"
 date: "2007-10-08T16:51:00Z"
-author: lucio.benfante
-author_data:
+author:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"

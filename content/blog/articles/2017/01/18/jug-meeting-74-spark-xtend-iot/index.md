@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#74: Spark - Xtend - IoT"
 date: "2017-01-18T17:27:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

@@ -1,8 +1,7 @@
 ---
 title: "Rilasciato Parancoe 2.0"
 date: "2008-11-01T10:57:00Z"
-author: lucio.benfante
-author_data:
+author:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"

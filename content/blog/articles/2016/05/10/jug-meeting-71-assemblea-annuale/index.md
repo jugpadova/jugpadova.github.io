@@ -1,8 +1,7 @@
 ---
 title: " JUG Meeting#71: Assemblea Annuale"
 date: "2016-05-10T17:24:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

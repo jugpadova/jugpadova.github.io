@@ -1,8 +1,7 @@
 ---
 title: "Parancoe e Glassfish"
 date: "2007-07-02T06:38:00Z"
-author: lucio.benfante
-author_data:
+author:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"

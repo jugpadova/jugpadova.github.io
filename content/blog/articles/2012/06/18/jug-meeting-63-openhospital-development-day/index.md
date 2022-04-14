@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#63: OpenHospital Development Day"
 date: "2012-06-18T12:58:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

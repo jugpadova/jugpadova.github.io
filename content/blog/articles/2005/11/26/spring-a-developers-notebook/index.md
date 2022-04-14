@@ -1,8 +1,7 @@
 ---
 title: "Spring - A Developer's Notebook"
 date: "2005-11-26T16:13:00Z"
-author: lucio.benfante
-author_data:
+author:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"

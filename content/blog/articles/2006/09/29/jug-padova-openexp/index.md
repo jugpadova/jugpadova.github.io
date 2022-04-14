@@ -1,8 +1,7 @@
 ---
 title: "JUG Padova @ OpenExp"
 date: "2006-09-29T12:59:00Z"
-author: lucio.benfante
-author_data:
+author:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"

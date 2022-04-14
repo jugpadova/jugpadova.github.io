@@ -1,8 +1,7 @@
 ---
 title: "Parancoe@Jazoon2007"
 date: "2007-06-10T16:21:00Z"
-author: enrico.giurin
-author_data:
+author:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"

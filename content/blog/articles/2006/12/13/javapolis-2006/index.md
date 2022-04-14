@@ -1,8 +1,7 @@
 ---
 title: "JavaPolis 2006"
 date: "2006-12-13T17:33:00Z"
-author: michele.franzin
-author_data:
+author:
     username: "michele.franzin"
     fullname: "Michele Franzin"
     email: "michele.franzin@jugpadova.it"

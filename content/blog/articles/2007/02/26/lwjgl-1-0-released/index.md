@@ -1,8 +1,7 @@
 ---
 title: "LWJGL 1.0 released"
 date: "2007-02-26T12:51:00Z"
-author: dario.santamaria
-author_data:
+author:
     username: "dario.santamaria"
     fullname: "Dario Santamaria"
     email: "dario.santamaria@jugpadova.it"

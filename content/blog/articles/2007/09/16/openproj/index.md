@@ -1,8 +1,7 @@
 ---
 title: "OpenProj"
 date: "2007-09-16T06:56:00Z"
-author: paolo.foletto
-author_data:
+author:
     username: "paolo.foletto"
     fullname: "Paolo Foletto"
     email: "pfoletto@tin.it"

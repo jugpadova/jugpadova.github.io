@@ -1,8 +1,7 @@
 ---
 title: "Installing Java Studio Creator 2 on Debian"
 date: "2006-01-26T18:34:00Z"
-author: dario.santamaria
-author_data:
+author:
     username: "dario.santamaria"
     fullname: "Dario Santamaria"
     email: "dario.santamaria@jugpadova.it"

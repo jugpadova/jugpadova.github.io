@@ -1,8 +1,7 @@
 ---
 title: "JUG Events"
 date: "2007-09-03T14:01:28Z"
-author: lucio.benfante
-author_data:
+author:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"

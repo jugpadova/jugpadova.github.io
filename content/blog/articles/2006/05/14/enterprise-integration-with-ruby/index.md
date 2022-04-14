@@ -1,8 +1,7 @@
 ---
 title: "Enterprise Integration with Ruby"
 date: "2006-05-14T08:15:00Z"
-author: lucio.benfante
-author_data:
+author:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"

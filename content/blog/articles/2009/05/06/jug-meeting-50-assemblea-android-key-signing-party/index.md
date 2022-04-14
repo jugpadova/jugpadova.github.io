@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#50 - Assemblea & Android & key signing party"
 date: "2009-05-06T23:48:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

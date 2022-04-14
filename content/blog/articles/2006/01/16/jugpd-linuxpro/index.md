@@ -1,8 +1,7 @@
 ---
 title: "JUGPD@LinuxPro"
 date: "2006-01-16T15:40:00Z"
-author: paolo.dona
-author_data:
+author:
     username: "paolo.dona"
     fullname: "Paolo Dona'"
     email: "paolo.dona@jugpadova.it"

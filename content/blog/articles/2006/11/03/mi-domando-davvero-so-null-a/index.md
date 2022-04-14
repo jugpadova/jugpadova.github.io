@@ -1,8 +1,7 @@
 ---
 title: "Mi domando...davvero so <code>null</code>(a)?"
 date: "2006-11-03T16:00:00Z"
-author: lucio.benfante
-author_data:
+author:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"

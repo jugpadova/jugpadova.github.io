@@ -1,8 +1,7 @@
 ---
 title: "Goodbye Felipe"
 date: "2010-03-07T00:03:00Z"
-author: lucio.benfante
-author_data:
+author:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"

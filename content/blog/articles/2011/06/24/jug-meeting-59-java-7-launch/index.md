@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#59: Java 7 Launch"
 date: "2011-06-24T00:35:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

@@ -1,8 +1,7 @@
 ---
 title: "JUGPadova@JavaDay di Torino"
 date: "2007-10-22T16:02:00Z"
-author: lucio.benfante
-author_data:
+author:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"

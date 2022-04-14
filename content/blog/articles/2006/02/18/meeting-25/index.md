@@ -1,8 +1,7 @@
 ---
 title: "JUGMeeting #25 - \"Aop e Motori di Ricerca\""
 date: "2006-02-18T14:44:00Z"
-author: andrea.nasato
-author_data:
+author:
     username: "andrea.nasato"
     fullname: "Andrea Nasato"
     email: "andrea.nasato@jugpadova.it"

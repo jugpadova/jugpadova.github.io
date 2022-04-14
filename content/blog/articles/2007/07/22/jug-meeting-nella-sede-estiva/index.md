@@ -1,8 +1,7 @@
 ---
 title: "Jug Meeting nella sede Estiva"
 date: "2007-07-22T08:13:00Z"
-author: paolo.foletto
-author_data:
+author:
     username: "paolo.foletto"
     fullname: "Paolo Foletto"
     email: "pfoletto@tin.it"

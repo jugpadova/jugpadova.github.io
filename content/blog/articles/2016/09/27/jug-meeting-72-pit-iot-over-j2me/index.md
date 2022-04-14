@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#72: PIT & IoT"
 date: "2016-09-27T20:02:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

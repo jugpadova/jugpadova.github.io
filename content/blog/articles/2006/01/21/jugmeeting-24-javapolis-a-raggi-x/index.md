@@ -1,8 +1,7 @@
 ---
 title: "JUGMeeting #24 - \"JavaPolis a raggi X\""
 date: "2006-01-21T22:33:00Z"
-author: paolo.dona
-author_data:
+author:
     username: "paolo.dona"
     fullname: "Paolo Dona'"
     email: "paolo.dona@jugpadova.it"

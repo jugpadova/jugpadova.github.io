@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#82: After 8: Sweet New Features in the JDK"
 date: "2020-01-14T05:52:00Z"
-author: lucio.benfante
-author_data:
+author:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"

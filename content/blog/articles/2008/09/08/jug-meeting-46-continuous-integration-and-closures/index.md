@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#46 - Continuous Integration and Closures"
 date: "2008-09-08T12:20:00Z"
-author: enrico.giurin
-author_data:
+author:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"

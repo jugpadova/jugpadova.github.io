@@ -1,8 +1,7 @@
 ---
 title: "findbugs to discover bugs"
 date: "2006-05-17T10:15:00Z"
-author: enrico.giurin
-author_data:
+author:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"

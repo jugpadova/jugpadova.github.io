@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#66: Le novità di Java 8 - Xtend"
 date: "2014-09-25T12:58:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

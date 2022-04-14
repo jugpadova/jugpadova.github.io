@@ -1,8 +1,7 @@
 ---
 title: "Java 7"
 date: "2006-09-13T10:55:00Z"
-author: andrea.nasato
-author_data:
+author:
     username: "andrea.nasato"
     fullname: "Andrea Nasato"
     email: "andrea.nasato@jugpadova.it"

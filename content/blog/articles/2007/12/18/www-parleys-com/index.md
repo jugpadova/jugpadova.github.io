@@ -1,8 +1,7 @@
 ---
 title: "www.parleys.com"
 date: "2007-12-18T10:23:00Z"
-author: paolo.foletto
-author_data:
+author:
     username: "paolo.foletto"
     fullname: "Paolo Foletto"
     email: "pfoletto@tin.it"

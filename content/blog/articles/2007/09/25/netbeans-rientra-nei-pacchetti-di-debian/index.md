@@ -1,8 +1,7 @@
 ---
 title: "NetBeans rientra nei pacchetti di Debian"
 date: "2007-09-25T08:10:00Z"
-author: dario.santamaria
-author_data:
+author:
     username: "dario.santamaria"
     fullname: "Dario Santamaria"
     email: "dario.santamaria@jugpadova.it"

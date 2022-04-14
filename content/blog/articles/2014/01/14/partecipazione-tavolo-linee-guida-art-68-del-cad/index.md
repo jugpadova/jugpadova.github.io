@@ -1,8 +1,7 @@
 ---
 title: "Partecipazione TdL Linee Guida Art. 68 del CAD"
 date: "2014-01-14T14:26:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

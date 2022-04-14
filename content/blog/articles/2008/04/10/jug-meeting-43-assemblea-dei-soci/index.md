@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#43 - Assemblea dei soci"
 date: "2008-04-10T22:38:00Z"
-author: enrico.giurin
-author_data:
+author:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"

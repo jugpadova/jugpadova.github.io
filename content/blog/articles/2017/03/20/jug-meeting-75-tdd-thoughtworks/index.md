@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#75: TDD & ThoughtWorks"
 date: "2017-03-20T20:10:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

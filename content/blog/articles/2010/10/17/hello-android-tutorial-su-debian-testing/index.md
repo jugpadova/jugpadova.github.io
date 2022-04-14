@@ -1,8 +1,7 @@
 ---
 title: "Hello Android Tutorial su Debian Testing"
 date: "2010-10-17T11:54:00Z"
-author: dario.santamaria
-author_data:
+author:
     username: "dario.santamaria"
     fullname: "Dario Santamaria"
     email: "dario.santamaria@jugpadova.it"

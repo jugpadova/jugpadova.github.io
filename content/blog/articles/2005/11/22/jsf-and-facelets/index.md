@@ -1,8 +1,7 @@
 ---
 title: "JSF and Facelets"
 date: "2005-11-22T10:42:00Z"
-author: andrea.nasato
-author_data:
+author:
     username: "andrea.nasato"
     fullname: "Andrea Nasato"
     email: "andrea.nasato@jugpadova.it"
@@ -36,12 +35,12 @@ only things you have to do to start using facelest are
 -   *make JSF use facelets as ViewHandler*: put those lines in the
     `faces-config.xml`
 
-```xml\
-<faces-config>\
-<application>\
-<view-handler>com.sun.facelets.FaceletViewHandler</view-handler>\
-</application>\
-</faces-config>\
+```xml
+<faces-config>
+    <application>
+        <view-handler>com.sun.facelets.FaceletViewHandler</view-handler>
+    </application>
+</faces-config>
 ```
 
 -   *import libraries*: you have to put in your classpath the facelets
@@ -55,11 +54,11 @@ only things you have to do to start using facelest are
     the framework that now the views are the xhtml files. To do this you
     simply modify your `web.xml` in this way:
 
-```xml\
-<context-param>\
-<param-name>javax.faces.DEFAULT\_SUFFIX</param-name>\
-<param-value>.xhtml</param-value>\
-</context-param>\
+```xml
+<context-param>
+    <param-name>javax.faces.DEFAULT\_SUFFIX</param-name>
+    <param-value>.xhtml</param-value>
+</context-param>
 ```
 
 If you don't want to become crazy with html stuff (your graphic designer

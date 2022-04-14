@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#44 - Groovy and Grails, Sales Force Automation"
 date: "2008-04-22T20:37:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

@@ -1,8 +1,7 @@
 ---
 title: "Xom"
 date: "2006-01-15T15:22:00Z"
-author: andrea.nasato
-author_data:
+author:
     username: "andrea.nasato"
     fullname: "Andrea Nasato"
     email: "andrea.nasato@jugpadova.it"

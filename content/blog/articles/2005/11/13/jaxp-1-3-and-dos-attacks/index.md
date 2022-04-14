@@ -1,8 +1,7 @@
 ---
 title: "JAXP 1.3 and DoS attacks"
 date: "2005-11-13T07:36:00Z"
-author: andrea.nasato
-author_data:
+author:
     username: "andrea.nasato"
     fullname: "Andrea Nasato"
     email: "andrea.nasato@jugpadova.it"

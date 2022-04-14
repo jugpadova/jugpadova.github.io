@@ -1,8 +1,7 @@
 ---
 title: "Java 3D API 1.4 Released"
 date: "2006-04-03T16:59:00Z"
-author: andrea.stefani
-author_data:
+author:
     username: "andrea.stefani"
     fullname: "Andrea Stefani"
     email: ""

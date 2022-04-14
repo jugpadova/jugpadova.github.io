@@ -1,8 +1,7 @@
 ---
 title: "ToStringHelper"
 date: "2005-11-11T18:49:00Z"
-author: lucio
-author_data:
+author:
     username: "lucio"
     fullname: ""
     email: ""

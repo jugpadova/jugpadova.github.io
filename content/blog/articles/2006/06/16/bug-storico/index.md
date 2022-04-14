@@ -1,8 +1,7 @@
 ---
 title: "Bug storico..."
 date: "2006-06-16T05:03:00Z"
-author: lucio.benfante
-author_data:
+author:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"

@@ -1,8 +1,7 @@
 ---
 title: "Tomcat 5.5.20 and JavaMail Sessions"
 date: "2007-03-13T06:40:00Z"
-author: lucio.benfante
-author_data:
+author:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"

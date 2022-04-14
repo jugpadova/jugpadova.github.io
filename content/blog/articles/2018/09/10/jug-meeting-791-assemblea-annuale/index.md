@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#79: Assemblea Annuale"
 date: "2018-09-10T10:15:00Z"
-author: lucio.benfante
-author_data:
+author:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"

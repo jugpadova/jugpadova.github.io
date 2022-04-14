@@ -1,8 +1,7 @@
 ---
 title: " JUG Meeting#78: Progressive web app & Kotlin"
 date: "2018-04-04T05:17:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

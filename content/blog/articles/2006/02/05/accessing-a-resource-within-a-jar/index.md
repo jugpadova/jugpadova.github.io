@@ -1,8 +1,7 @@
 ---
 title: "Accessing a resource within a .jar"
 date: "2006-02-05T18:08:00Z"
-author: emanuele.gesuato
-author_data:
+author:
     username: "emanuele.gesuato"
     fullname: "Emanuele Gesuato"
     email: ""

@@ -1,8 +1,7 @@
 ---
 title: "JUGMeeting #34 - Assemblea Annuale dei soci"
 date: "2007-04-24T03:51:00Z"
-author: enrico.giurin
-author_data:
+author:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"

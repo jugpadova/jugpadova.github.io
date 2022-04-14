@@ -1,8 +1,7 @@
 ---
 title: "Mustang SplashScreen"
 date: "2006-04-01T07:45:00Z"
-author: lucio.benfante
-author_data:
+author:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"

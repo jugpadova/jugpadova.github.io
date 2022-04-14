@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#53: OSGi"
 date: "2010-02-14T06:37:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

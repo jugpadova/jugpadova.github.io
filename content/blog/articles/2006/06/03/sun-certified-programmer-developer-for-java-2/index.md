@@ -1,8 +1,7 @@
 ---
 title: "Sun Certified Programmer & Developer for Java 2"
 date: "2006-06-03T13:37:33Z"
-author: emanuele.gesuato
-author_data:
+author:
     username: "emanuele.gesuato"
     fullname: "Emanuele Gesuato"
     email: ""

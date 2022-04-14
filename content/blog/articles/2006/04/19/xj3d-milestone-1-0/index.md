@@ -1,8 +1,7 @@
 ---
 title: "Xj3D milestone 1.0"
 date: "2006-04-19T10:18:00Z"
-author: dario.santamaria
-author_data:
+author:
     username: "dario.santamaria"
     fullname: "Dario Santamaria"
     email: "dario.santamaria@jugpadova.it"

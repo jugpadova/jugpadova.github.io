@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#49 - Adobe Flex"
 date: "2009-02-21T13:10:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

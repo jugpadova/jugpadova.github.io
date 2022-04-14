@@ -1,8 +1,7 @@
 ---
 title: "Java Conference 2006 - First day"
 date: "2006-06-28T08:50:00Z"
-author: andrea.nasato
-author_data:
+author:
     username: "andrea.nasato"
     fullname: "Andrea Nasato"
     email: "andrea.nasato@jugpadova.it"

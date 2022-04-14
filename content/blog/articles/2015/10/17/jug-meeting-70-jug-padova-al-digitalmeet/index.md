@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#70: JUG Padova al DigitalMeet"
 date: "2015-10-17T06:24:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

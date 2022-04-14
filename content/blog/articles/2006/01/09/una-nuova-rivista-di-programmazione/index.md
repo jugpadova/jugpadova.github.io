@@ -1,8 +1,7 @@
 ---
 title: "Una nuova rivista di programmazione"
 date: "2006-01-09T11:18:00Z"
-author: lucio.benfante
-author_data:
+author:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"

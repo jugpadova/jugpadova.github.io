@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#58: Sviluppo per iPhone"
 date: "2011-06-12T08:00:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

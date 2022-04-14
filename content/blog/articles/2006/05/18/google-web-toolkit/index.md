@@ -1,8 +1,7 @@
 ---
 title: "Google Web Toolkit"
 date: "2006-05-18T18:25:00Z"
-author: lucio.benfante
-author_data:
+author:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"

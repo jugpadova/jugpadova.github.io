@@ -1,8 +1,7 @@
 ---
 title: "JUGMeeting #22 - Sito/Axis/JSF/Tapestry"
 date: "2005-11-18T23:19:00Z"
-author: paolo.dona
-author_data:
+author:
     username: "paolo.dona"
     fullname: "Paolo Dona'"
     email: "paolo.dona@jugpadova.it"

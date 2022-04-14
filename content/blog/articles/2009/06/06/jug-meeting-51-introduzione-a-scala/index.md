@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#51 - Introduzione a Scala, JAWR e JavaFX"
 date: "2009-06-06T10:05:00Z"
-author: enrico.giurin
-author_data:
+author:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"

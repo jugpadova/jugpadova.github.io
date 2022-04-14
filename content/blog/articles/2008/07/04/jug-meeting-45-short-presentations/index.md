@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#45 : short presentations"
 date: "2008-07-04T12:22:00Z"
-author: enrico.giurin
-author_data:
+author:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"

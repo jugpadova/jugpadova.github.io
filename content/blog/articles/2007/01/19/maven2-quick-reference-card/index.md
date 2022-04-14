@@ -1,8 +1,7 @@
 ---
 title: "Maven2 quick reference card"
 date: "2007-01-19T10:08:00Z"
-author: michele.franzin
-author_data:
+author:
     username: "michele.franzin"
     fullname: "Michele Franzin"
     email: "michele.franzin@jugpadova.it"

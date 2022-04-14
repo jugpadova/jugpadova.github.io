@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting #28 - \"Da Java a Ruby e ritorno\""
 date: "2006-04-30T10:06:00Z"
-author: paolo.dona
-author_data:
+author:
     username: "paolo.dona"
     fullname: "Paolo Dona'"
     email: "paolo.dona@jugpadova.it"

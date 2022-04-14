@@ -1,8 +1,7 @@
 ---
 title: "Disponibile NetBeans 6.0 Beta 1"
 date: "2007-09-18T02:53:00Z"
-author: lucio.benfante
-author_data:
+author:
     username: "lucio.benfante"
     fullname: "Lucio Benfante"
     email: "lucio.benfante@jugpadova.it"

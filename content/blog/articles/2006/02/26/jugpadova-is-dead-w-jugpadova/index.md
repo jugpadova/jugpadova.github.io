@@ -1,8 +1,7 @@
 ---
 title: "JugPadova is dead... W JugPadova!"
 date: "2006-02-26T16:35:00Z"
-author: michele.franzin
-author_data:
+author:
     username: "michele.franzin"
     fullname: "Michele Franzin"
     email: "michele.franzin@jugpadova.it"

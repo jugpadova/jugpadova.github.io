@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#68: JULIA - AngularJs - Netflix/Hystrix"
 date: "2015-05-20T12:55:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

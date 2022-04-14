@@ -1,8 +1,7 @@
 ---
 title: "Cena Sociale"
 date: "2013-12-17T11:01:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

@@ -1,8 +1,7 @@
 ---
 title: "JUG Meeting#65: Groovy & Grails - Google Go - Assemblea Annuale"
 date: "2014-06-21T03:14:00Z"
-author: tarin.gamberini
-author_data:
+author:
     username: "tarin.gamberini"
     fullname: "Tarin Gamberini"
     email: "tarin.gamberini@jugpadova.it"

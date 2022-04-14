@@ -13,6 +13,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       {
         allMarkdownRemark(
           sort: { fields: [frontmatter___date], order: ASC }
+          filter: { fileAbsolutePath: { regex: "/(/blog/)/" } }
           limit: 1000
         ) {
           nodes {
@@ -106,8 +107,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       title: String
       description: String
       date: Date @dateformat
-      author: String
-      author_data: PostAuthor
+      author: PostAuthor
     }
 
     type PostAuthor {

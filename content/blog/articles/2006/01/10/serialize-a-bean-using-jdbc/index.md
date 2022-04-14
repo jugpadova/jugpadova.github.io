@@ -1,8 +1,7 @@
 ---
 title: "Serialize a bean using jdbc"
 date: "2006-01-10T17:19:00Z"
-author: enrico.giurin
-author_data:
+author:
     username: "enrico.giurin"
     fullname: "Enrico Giurin"
     email: "enrico.giurin@jugpadova.it"

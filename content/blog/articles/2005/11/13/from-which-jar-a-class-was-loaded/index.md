@@ -1,8 +1,7 @@
 ---
 title: "From which Jar a Class was loaded?"
 date: "2005-11-13T08:11:00Z"
-author: paolo.dona
-author_data:
+author:
     username: "paolo.dona"
     fullname: "Paolo Dona'"
     email: "paolo.dona@jugpadova.it"
