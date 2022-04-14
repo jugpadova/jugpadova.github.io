@@ -2,13 +2,13 @@ module.exports = {
   siteMetadata: {
     title: `JUG Padova`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `JUG Padova dev team`,
+      summary: `A team of contributors at JUG Padova.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `http://www.jugpadova.it`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `luciobenfante`,
     },
   },
   plugins: [
@@ -120,7 +120,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `JUG Padova Site`,
+        name: `JUG Padova Web Site`,
         short_name: `JUG Padova`,
         start_url: `/`,
         background_color: `#ffffff`,
