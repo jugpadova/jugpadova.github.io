@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: '/jugpadova-gatsby-site',
   siteMetadata: {
     title: `JUG Padova`,
     author: {
