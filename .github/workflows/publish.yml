@@ -17,4 +17,4 @@ jobs:
         with:
           access-token: ${{ secrets.ACCESS_TOKEN }}
           deploy-branch: main
-          skip-publish: false
+          skip-publish: ${{ GITHUB_EVENT_NAME == 'pull_request' }}
