@@ -57,6 +57,56 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       })
     })
   }
+
+  // Define a template for single pages post
+  const singlePage = path.resolve(`./src/templates/single-page.js`)
+
+  // Get all markdown blog posts sorted by date
+  const singlePageResult = await graphql(
+    `
+      {
+        allMarkdownRemark(
+          sort: { fields: [frontmatter___date], order: ASC }
+          filter: { fileAbsolutePath: { regex: "/(/pages/)/" } }
+          limit: 1000
+        ) {
+          nodes {
+            id
+            fields {
+              slug
+            }
+          }
+        }
+      }
+    `
+  )
+
+  if (singlePageResult.errors) {
+    reporter.panicOnBuild(
+      `There was an error loading your single pages`,
+      singlePageResult.errors
+    )
+    return
+  }
+
+  const singlePages = singlePageResult.data.allMarkdownRemark.nodes
+
+  // Create site single pages
+  // But only if there's at least one markdown file found at "content/pages" (defined in gatsby-config.js)
+  // `context` is available in the template as a prop and as a variable in GraphQL
+
+  if (singlePages.length > 0) {
+    singlePages.forEach((page) => {
+
+      createPage({
+        path: page.fields.slug,
+        component: singlePage,
+        context: {
+          id: page.id,
+        },
+      })
+    })
+  }
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
