@@ -12,7 +12,7 @@ const ContentWrapper = styled.div`
 `
 
 const Sidebar = styled.div`
-  margin-left: 1px dotted var(--primary-color);
+  padding-left: 0.5em;
 `
 
 const SinglePageTemplate = ({ data, location }) => {

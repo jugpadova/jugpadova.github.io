@@ -11,12 +11,7 @@ const defaultItems = [
 ]
 
 const Menu = styled.ul`
-    list-style-type: square;
-    margin-bottom: 0px;
-    & > li {
-        display: inline-block;
-        margin-left: 0.5em;
-    }
+    list-style-type: none;
 `
 
 const JugPagesMenu = ({ items = defaultItems }) => {
