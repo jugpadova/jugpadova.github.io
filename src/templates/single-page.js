@@ -3,6 +3,17 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import styled from "styled-components"
+import JugPagesMenu from "../components/jug-pages-menu"
+
+const ContentWrapper = styled.div`
+  display: flex;
+  align-items: stretch;
+`
+
+const Sidebar = styled.div`
+  margin-left: 1px dotted var(--primary-color);
+`
 
 const SinglePageTemplate = ({ data, location }) => {
   const page = data.markdownRemark
@@ -14,16 +25,21 @@ const SinglePageTemplate = ({ data, location }) => {
         title={page.frontmatter.title}
         description={page.frontmatter.description || page.excerpt}
       />
-      <article
-        className="single-page"
-        itemScope
-        itemType="http://schema.org/Article"
-      >
-        <section
-          dangerouslySetInnerHTML={{ __html: page.html }}
-          itemProp="articleBody"
-        />
-      </article>
+      <ContentWrapper>
+        <article
+          className="single-page"
+          itemScope
+          itemType="http://schema.org/Article"
+        >
+          <section
+            dangerouslySetInnerHTML={{ __html: page.html }}
+            itemProp="articleBody"
+          />
+        </article>
+        <Sidebar>
+          <JugPagesMenu />
+        </Sidebar>
+      </ContentWrapper>
     </Layout>
   )
 }
@@ -31,9 +47,7 @@ const SinglePageTemplate = ({ data, location }) => {
 export default SinglePageTemplate
 
 export const pageQuery = graphql`
-  query SinglePageBySlug(
-    $id: String!
-  ) {
+  query SinglePageBySlug($id: String!) {
     site {
       siteMetadata {
         title
