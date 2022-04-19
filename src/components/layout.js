@@ -1,4 +1,5 @@
 import * as React from "react"
+import Alert from "./alert"
 import Header from "./header"
 
 const Layout = ({ location, title, children }) => {
@@ -8,6 +9,7 @@ const Layout = ({ location, title, children }) => {
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
       <Header title={title} />
+      <Alert type="danger">Prova di alert</Alert>
       <main>{children}</main>
       <footer>
         © {new Date().getFullYear()}, Built with
