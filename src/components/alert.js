@@ -11,6 +11,13 @@ const Alert = styled.div`
     color: ${props => props.theme[props.type].color};
     background-color: ${props => props.theme[props.type].backgroundColor};
     border-color: ${props => props.theme[props.type].borderColor};
+
+    & > .title {
+        display: block;
+        font-size: 1.1em;
+        font-weight: bold;
+        margin-bottom: 0.5em;
+    }
 `
 
 Alert.defaultProps = {
