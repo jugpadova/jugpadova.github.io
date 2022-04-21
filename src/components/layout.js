@@ -1,4 +1,3 @@
-import { Link } from "gatsby"
 import * as React from "react"
 import Alert from "./alert"
 import Header from "./header"
