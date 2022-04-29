@@ -2,6 +2,7 @@ import * as React from "react"
 import { Link } from "gatsby"
 import Gravatar from "../components/gravatar"
 import styled from "styled-components"
+import CategoryList from "./category-list"
 
 const AuthorWrapper = styled.span`
   display: flex;
@@ -12,7 +13,13 @@ const AuthorWrapper = styled.span`
   }
 `
 
-const PostItem = ({ slug, title, author, date, content }) => {
+const LinksWrapper = styled.nav`
+  display: flex ;
+  justify-content: flex-end;
+  align-items: flex-start;
+`
+
+const PostItem = ({ slug, title, author, date, content, categories }) => {
   return (
     <li key={slug}>
       <article
@@ -40,6 +47,9 @@ const PostItem = ({ slug, title, author, date, content }) => {
             itemProp="description"
           />
         </section>
+        <LinksWrapper>
+            <CategoryList categories={categories}/>
+        </LinksWrapper>
       </article>
     </li>
   )

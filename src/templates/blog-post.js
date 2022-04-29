@@ -5,6 +5,7 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import Gravatar from "../components/gravatar"
 import styled from "styled-components"
+import CategoryList from "../components/category-list"
 
 const AuthorWrapper = styled.p`
   display: flex;
@@ -13,6 +14,12 @@ const AuthorWrapper = styled.p`
   & > * {
     margin-right: 0.5em;
   }
+`
+
+const LinksWrapper = styled.nav`
+  display: flex ;
+  justify-content: flex-end;
+  align-items: flex-start;
 `
 
 const BlogPostTemplate = ({ data, location }) => {
@@ -42,7 +49,11 @@ const BlogPostTemplate = ({ data, location }) => {
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
+        <LinksWrapper>
+            <CategoryList categories={post.frontmatter.categories}/>
+        </LinksWrapper>
       </article>
+      <hr/>
       <nav className="blog-post-nav">
         <ul
           style={{
@@ -98,6 +109,10 @@ export const pageQuery = graphql`
           username
           fullname
           email
+        }
+        categories {
+          name
+          permalink
         }
       }
     }

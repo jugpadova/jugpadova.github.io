@@ -24,6 +24,7 @@ const PostListTemplate = ({ pageContext, data, location }) => {
               author={post.frontmatter.author}
               date={post.frontmatter.date}
               content={content}
+              categories={post.frontmatter.categories}
             />
           )
         })}

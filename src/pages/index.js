@@ -37,6 +37,7 @@ const BlogIndex = ({ data, location }) => {
               author={post.frontmatter.author}
               date={post.frontmatter.date}
               content={content}
+              categories={post.frontmatter.categories}
             />
           )
         })}
@@ -71,6 +72,10 @@ export const pageQuery = graphql`
             username
             fullname
             email
+          }
+          categories {
+            name
+            permalink
           }
         }
       }
