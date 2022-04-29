@@ -5,26 +5,13 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import PostItem from "../components/post-item"
 
-const BlogIndex = ({ data, location }) => {
+const PostListTemplate = ({ pageContext, data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
-  const posts = data.allMarkdownRemark.nodes
-
-  if (posts.length === 0) {
-    return (
-      <Layout location={location} title={siteTitle}>
-        <Seo title="All posts" />
-        <p>
-          No blog posts found. Add markdown posts to "content/blog" (or the
-          directory you specified for the "gatsby-source-filesystem" plugin in
-          gatsby-config.js).
-        </p>
-      </Layout>
-    )
-  }
+  const { nodes: posts } = data.allMarkdownRemark
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="All posts" />
+      <Seo title={pageContext.title} />
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
@@ -45,10 +32,10 @@ const BlogIndex = ({ data, location }) => {
   )
 }
 
-export default BlogIndex
+export default PostListTemplate
 
 export const pageQuery = graphql`
-  query {
+  query PostListByFilter($filter: MarkdownRemarkFilterInput) {
     site {
       siteMetadata {
         title
@@ -56,7 +43,8 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { fileAbsolutePath: { regex: "/(/blog/)/" } }
+      filter: $filter
+      limit: 1000
     ) {
       nodes {
         excerpt
@@ -71,6 +59,10 @@ export const pageQuery = graphql`
             username
             fullname
             email
+          }
+          categories {
+            name
+            permalink
           }
         }
       }

@@ -4,6 +4,7 @@ import styled from "styled-components"
 
 const defaultItems = [
   { url: "/", display: "Blog" },
+  { url: "/articles/category/meeting", display: "Meetings" },
   { url: "/jug/info", display: "JUG" },
 ]
 

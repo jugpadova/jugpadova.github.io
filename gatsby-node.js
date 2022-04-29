@@ -1,4 +1,5 @@
 const path = require(`path`)
+const _ = require(`lodash`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
 exports.createPages = async ({ graphql, actions, reporter }) => {
@@ -11,7 +12,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const result = await graphql(
     `
       {
-        allMarkdownRemark(
+        allPosts: allMarkdownRemark(
           sort: { fields: [frontmatter___date], order: ASC }
           filter: { fileAbsolutePath: { regex: "/(/blog/)/" } }
           limit: 1000
@@ -23,19 +24,36 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
             }
           }
         }
+        allPages: allMarkdownRemark(
+          sort: { fields: [frontmatter___date], order: ASC }
+          filter: { fileAbsolutePath: { regex: "/(/pages/)/" } }
+          limit: 1000
+        ) {
+          nodes {
+            id
+            fields {
+              slug
+            }
+          }
+        }
+        categoriesGroup: allMarkdownRemark(
+          filter: { fileAbsolutePath: { regex: "/(/blog/)/" } }
+          limit: 100
+        ) {
+          group(field: frontmatter___categories___permalink) {
+            fieldValue
+          }
+        }
       }
     `
   )
 
   if (result.errors) {
-    reporter.panicOnBuild(
-      `There was an error loading your blog posts`,
-      result.errors
-    )
+    reporter.panicOnBuild(`There was an error loading your data`, result.errors)
     return
   }
 
-  const posts = result.data.allMarkdownRemark.nodes
+  const posts = result.data.allPosts.nodes
 
   // Create blog posts pages
   // But only if there's at least one markdown file found at "content/blog" (defined in gatsby-config.js)
@@ -61,48 +79,44 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   // Define a template for single pages post
   const singlePage = path.resolve(`./src/templates/single-page.js`)
 
-  // Get all markdown blog posts sorted by date
-  const singlePageResult = await graphql(
-    `
-      {
-        allMarkdownRemark(
-          sort: { fields: [frontmatter___date], order: ASC }
-          filter: { fileAbsolutePath: { regex: "/(/pages/)/" } }
-          limit: 1000
-        ) {
-          nodes {
-            id
-            fields {
-              slug
-            }
-          }
-        }
-      }
-    `
-  )
-
-  if (singlePageResult.errors) {
-    reporter.panicOnBuild(
-      `There was an error loading your single pages`,
-      singlePageResult.errors
-    )
-    return
-  }
-
-  const singlePages = singlePageResult.data.allMarkdownRemark.nodes
+  const singlePages = result.data.allPages.nodes
 
   // Create site single pages
   // But only if there's at least one markdown file found at "content/pages" (defined in gatsby-config.js)
   // `context` is available in the template as a prop and as a variable in GraphQL
 
   if (singlePages.length > 0) {
-    singlePages.forEach((page) => {
-
+    singlePages.forEach(page => {
       createPage({
         path: page.fields.slug,
         component: singlePage,
         context: {
           id: page.id,
+        },
+      })
+    })
+  }
+
+  // Define a template for the post list pages
+  const postListPage = path.resolve(`./src/templates/post-list.js`)
+
+  // Create individual category pages.
+  const categories = result.data.categoriesGroup.group
+  if (categories.length > 0) {
+    categories.forEach(category => {
+      createPage({
+        path: `/articles/category/${_.kebabCase(category.fieldValue)}/`,
+        component: postListPage,
+        context: {
+          title: `Posts in ${category.fieldValue}`,
+          filter: {
+            fileAbsolutePath: { regex: "/(/blog/)/" },
+            frontmatter: {
+              categories: {
+                elemMatch: { permalink: { eq: category.fieldValue } },
+              },
+            },
+          },
         },
       })
     })
