@@ -52,6 +52,7 @@ const PostListTemplate = ({ pageContext, data, location }) => {
                 date={post.frontmatter.date}
                 content={content}
                 categories={post.frontmatter.categories}
+                tags={post.frontmatter.tags}
               />
             )
           })}
@@ -95,6 +96,10 @@ export const pageQuery = graphql`
           categories {
             name
             permalink
+          }
+          tags {
+            name
+            display
           }
         }
       }

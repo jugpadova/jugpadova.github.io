@@ -26,20 +26,20 @@ const ListWrapper = styled.ul`
   }
 `
 
-const CategoryList = ({ categories = [] }) => {
+const TagList = ({ tags = [] }) => {
   return (
     <Wrapper>
-      {!categories || categories.length === 0 ? (
-        <span>Nessuna categoria</span>
+      {!tags || tags.length === 0 ? (
+        <span>Nessun tag</span>
       ) : (
         <>
-          <div className="label">Categorie:</div>
+          <div className="label">Tag:</div>
           <ListWrapper>
-            {categories.map((category, i) => (
-              <li key={category.permalink}>
+            {tags.map((tag, i) => (
+              <li key={tag.permalink}>
                 {i > 0 ? <>, </> : null}
-                <Link to={`/articles/category/${category.permalink}`}>
-                  {category.name}
+                <Link to={`/articles/tag/${tag.name}`}>
+                  {tag.display}
                 </Link>
               </li>
             ))}
@@ -50,4 +50,4 @@ const CategoryList = ({ categories = [] }) => {
   )
 }
 
-export default CategoryList
+export default TagList

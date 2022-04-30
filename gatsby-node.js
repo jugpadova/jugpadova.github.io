@@ -15,7 +15,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         allPosts: allMarkdownRemark(
           sort: { fields: [frontmatter___date], order: ASC }
           filter: { fileAbsolutePath: { regex: "/(/blog/)/" } }
-          limit: 1000
+          limit: 5000
         ) {
           nodes {
             id
@@ -27,7 +27,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         allPages: allMarkdownRemark(
           sort: { fields: [frontmatter___date], order: ASC }
           filter: { fileAbsolutePath: { regex: "/(/pages/)/" } }
-          limit: 1000
+          limit: 5000
         ) {
           nodes {
             id
@@ -38,9 +38,17 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         }
         categoriesGroup: allMarkdownRemark(
           filter: { fileAbsolutePath: { regex: "/(/blog/)/" } }
-          limit: 100
+          limit: 5000
         ) {
           group(field: frontmatter___categories___permalink) {
+            fieldValue
+          }
+        }
+        tagsGroup: allMarkdownRemark(
+          filter: { fileAbsolutePath: { regex: "/(/blog/)/" } }
+          limit: 5000
+        ) {
+          group(field: frontmatter___tags___name) {
             fieldValue
           }
         }
@@ -121,6 +129,29 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       })
     })
   }
+
+  // Create individual tag pages.
+  const tags = result.data.tagsGroup.group
+  if (tags.length > 0) {
+    tags.forEach(tag => {
+      createPage({
+        path: `/articles/tag/${_.kebabCase(tag.fieldValue)}/`,
+        component: postListPage,
+        context: {
+          title: `Posts with tag ${tag.fieldValue}`,
+          filter: {
+            fileAbsolutePath: { regex: "/(/blog/)/" },
+            frontmatter: {
+              tags: {
+                elemMatch: { name: { eq: tag.fieldValue } },
+              },
+            },
+          },
+        },
+      })
+    })
+  }
+
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
