@@ -6,6 +6,7 @@ import Seo from "../components/seo"
 import Gravatar from "../components/gravatar"
 import styled from "styled-components"
 import CategoryList from "../components/category-list"
+import TagList from "../components/tag-list"
 
 const AuthorWrapper = styled.p`
   display: flex;
@@ -19,7 +20,13 @@ const AuthorWrapper = styled.p`
 const LinksWrapper = styled.nav`
   display: flex ;
   justify-content: flex-end;
-  align-items: flex-start;
+  align-items: center;
+  margin-top: 0.5rem;
+
+  & > * {
+    margin-left: 0.5em;
+  }
+
 `
 
 const BlogPostTemplate = ({ data, location }) => {
@@ -42,7 +49,8 @@ const BlogPostTemplate = ({ data, location }) => {
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <AuthorWrapper>
             <Gravatar {...post.frontmatter.author} />
-            <span>|</span><span>{post.frontmatter.date}</span>
+            <span>|</span>
+            <span>{post.frontmatter.date}</span>
           </AuthorWrapper>
         </header>
         <section
@@ -50,10 +58,12 @@ const BlogPostTemplate = ({ data, location }) => {
           itemProp="articleBody"
         />
         <LinksWrapper>
-            <CategoryList categories={post.frontmatter.categories}/>
+          <CategoryList categories={post.frontmatter.categories} />
+          <div>|</div>
+          <TagList tags={post.frontmatter.tags} />
         </LinksWrapper>
       </article>
-      <hr/>
+      <hr />
       <nav className="blog-post-nav">
         <ul
           style={{
@@ -113,6 +123,10 @@ export const pageQuery = graphql`
         categories {
           name
           permalink
+        }
+        tags {
+          name
+          display
         }
       }
     }

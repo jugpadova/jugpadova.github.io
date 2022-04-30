@@ -3,6 +3,7 @@ import { Link } from "gatsby"
 import Gravatar from "../components/gravatar"
 import styled from "styled-components"
 import CategoryList from "./category-list"
+import TagList from "./tag-list"
 
 const AuthorWrapper = styled.span`
   display: flex;
@@ -16,10 +17,15 @@ const AuthorWrapper = styled.span`
 const LinksWrapper = styled.nav`
   display: flex ;
   justify-content: flex-end;
-  align-items: flex-start;
+  align-items: center;
+  margin-top: 0.5rem;
+
+  & > * {
+    margin-left: 0.5em;
+  }
 `
 
-const PostItem = ({ slug, title, author, date, content, categories }) => {
+const PostItem = ({ slug, title, author, date, content, categories, tags }) => {
   return (
     <li key={slug}>
       <article
@@ -49,6 +55,8 @@ const PostItem = ({ slug, title, author, date, content, categories }) => {
         </section>
         <LinksWrapper>
             <CategoryList categories={categories}/>
+            <div>|</div>
+            <TagList tags={tags}/>
         </LinksWrapper>
       </article>
     </li>
