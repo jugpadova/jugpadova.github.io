@@ -6,6 +6,7 @@ import Seo from "../components/seo"
 import PostItem from "../components/post-item"
 import CategoryMenu from "../components/category-menu"
 import styled from "styled-components"
+import TagCloud from "../components/tag-cloud"
 
 const ContentWrapper = styled.div`
   display: flex;
@@ -15,7 +16,7 @@ const ContentWrapper = styled.div`
 const Sidebar = styled.div`
   font-size: 0.8rem;
   padding-left: 1rem;
-  min-width: 25%;
+  width: 25%;
 
   & h3 {
     color: #d75a20;
@@ -72,6 +73,7 @@ const BlogIndex = ({ data, location }) => {
         </ol>
         <Sidebar>
           <CategoryMenu />
+          <TagCloud />
         </Sidebar>
       </ContentWrapper>
     </Layout>
