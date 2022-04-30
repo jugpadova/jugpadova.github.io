@@ -37,7 +37,7 @@ const CategoryList = ({ categories = [] }) => {
           <div className="label">Categorie:</div>
           <ListWrapper>
             {categories.map((category, i) => (
-              <li>
+              <li key={category.permalink}>
                 {i > 0 ? <>, </> : null}
                 <Link to={`/articles/category/${category.permalink}`}>
                   {category.name}

@@ -21,7 +21,7 @@ const MainMenu = ({ items = defaultItems }) => {
   return (
     <Menu>
       {items.map(item => (
-        <li>
+        <li key={item.url}>
           <Link to={item.url}>{item.display}</Link>
         </li>
       ))}
