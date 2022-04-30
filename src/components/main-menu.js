@@ -4,6 +4,7 @@ import styled from "styled-components"
 
 const defaultItems = [
   { url: "/", display: "Blog" },
+  { url: "/articles/category/meeting", display: "Meetings" },
   { url: "/jug/info", display: "JUG" },
 ]
 
@@ -20,7 +21,7 @@ const MainMenu = ({ items = defaultItems }) => {
   return (
     <Menu>
       {items.map(item => (
-        <li>
+        <li key={item.url}>
           <Link to={item.url}>{item.display}</Link>
         </li>
       ))}

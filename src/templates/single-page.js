@@ -13,6 +13,7 @@ const ContentWrapper = styled.div`
 
 const Sidebar = styled.div`
   padding-left: 0.5em;
+  min-width: 25%;
 `
 
 const SinglePageTemplate = ({ data, location }) => {
