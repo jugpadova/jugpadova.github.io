@@ -7,6 +7,7 @@ import PostItem from "../components/post-item"
 import CategoryMenu from "../components/category-menu"
 import styled from "styled-components"
 import TagCloud from "../components/tag-cloud"
+import Search from "../components/search"
 
 const ContentWrapper = styled.div`
   display: flex;
@@ -72,6 +73,7 @@ const BlogIndex = ({ data, location }) => {
           })}
         </ol>
         <Sidebar>
+          <Search />
           <CategoryMenu />
           <TagCloud />
         </Sidebar>

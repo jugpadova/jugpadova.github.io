@@ -3,6 +3,7 @@
  */
 
 import * as React from "react"
+import PropTypes from "prop-types"
 import styled from "styled-components"
 import { Link } from "gatsby"
 
@@ -48,6 +49,10 @@ const CategoryList = ({ categories = [] }) => {
       )}
     </Wrapper>
   )
+}
+
+CategoryList.propTypes = {
+  categories: PropTypes.array,
 }
 
 export default CategoryList

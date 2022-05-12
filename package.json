@@ -31,15 +31,19 @@
     "gatsby-source-filesystem": "^4.12.1",
     "gatsby-transformer-remark": "^5.12.1",
     "gatsby-transformer-sharp": "^4.12.1",
+    "js-search": "^2.0.0",
     "prismjs": "^1.28.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-helmet": "^6.1.0",
+    "stemmer": "^2.0.0",
     "styled-components": "^5.3.5",
     "typeface-merriweather": "1.1.13",
     "typeface-montserrat": "1.1.13"
   },
   "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.29.4",
     "gh-pages": "^3.2.3",
     "prettier": "^2.6.2"
   },
