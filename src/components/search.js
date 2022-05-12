@@ -1,3 +1,11 @@
+/**
+ * A search component for the home page using the js-search library.
+ * 
+ * Freely inspired by:
+ *  - https://rodneylab.com/js-search-gatsby/
+ *  - https://www.gatsbyjs.com/docs/adding-search-with-js-search/
+ */
+
 import React, { useEffect, useRef, useState } from "react"
 import { useStaticQuery, graphql, Link, navigate } from "gatsby"
 import {
@@ -157,7 +165,7 @@ const Search = () => {
   }
 
   if (isLoading || search === null) {
-    return null;
+    return null
   }
 
   return (
