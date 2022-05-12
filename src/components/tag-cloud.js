@@ -2,8 +2,7 @@ import React from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
 import styled from "styled-components"
 
-const Wrapper = styled.nav`
-`
+const Wrapper = styled.nav``
 
 const TagCloud = () => {
   const data = useStaticQuery(graphql`
@@ -57,11 +56,15 @@ const TagCloud = () => {
       <h3>Tag</h3>
       <div>
         {cloudTags.map(tag => (
-          <>
-          <span key={tag.name} style={{fontSize: (66 + (tag.totalCount - min)*(200 - 66)/(max - min)) + "%"}}>
-            <Link to={`/articles/tag/${tag.name}`}>{tag.display}</Link>
-          </span><span> </span>
-          </>
+          <span
+            key={tag.name}
+            style={{
+              fontSize:
+                66 + ((tag.totalCount - min) * (200 - 66)) / (max - min) + "%",
+            }}
+          >
+            <Link to={`/articles/tag/${tag.name}`}>{tag.display}</Link><span> </span>
+          </span>
         ))}
       </div>
     </Wrapper>

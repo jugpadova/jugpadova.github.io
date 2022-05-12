@@ -36,7 +36,7 @@ const TagList = ({ tags = [] }) => {
           <div className="label">Tag:</div>
           <ListWrapper>
             {tags.map((tag, i) => (
-              <li key={tag.permalink}>
+              <li key={tag.name}>
                 {i > 0 ? <>, </> : null}
                 <Link to={`/articles/tag/${tag.name}`}>
                   {tag.display}
