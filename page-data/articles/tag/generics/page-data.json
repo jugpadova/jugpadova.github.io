@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/generics/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: Sabato 23 febbraio 2008 dalle 09:15 alle 12:30 Dove: aula Ee - primo piano del DEI, via Gradenigo 6/B (ingresso studenti), Padova…","fields":{"slug":"/articles/2008/02/11/jug-meeting-41/"},"frontmatter":{"date":"14 anni fa","title":"JUG Meeting#41","description":null,"author":{"username":"enrico.giurin","fullname":"Enrico Giurin","email":"enrico.giurin@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"}],"tags":[{"name":"generics","display":"Generics"},{"name":"collections","display":"Collections"},{"name":"project","display":"project"},{"name":"management","display":"management"}]}}]}},"pageContext":{"title":"Posts with tag generics","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"generics"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

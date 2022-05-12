@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/jdk/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: venerdì 31 Gennaio 2020 ore 18:30 Dove: Finantix - Via della Pila, 13 - 30175 Marghera (VE) dietro la\nstazione dei treni Guarda la…","fields":{"slug":"/articles/2020/01/14/jug-meeting-82-after-8-sweet-new-features-in-the-jdk/"},"frontmatter":{"date":"2 anni fa","title":"JUG Meeting#82: After 8: Sweet New Features in the JDK","description":null,"author":{"username":"lucio.benfante","fullname":"Lucio Benfante","email":"lucio.benfante@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"},{"name":"Eventi","permalink":"eventi"}],"tags":[{"name":"meeting","display":"meeting"},{"name":"jdk","display":"jdk"}]}}]}},"pageContext":{"title":"Posts with tag jdk","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"jdk"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

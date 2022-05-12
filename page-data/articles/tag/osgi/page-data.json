@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/osgi/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"JUG Meeting#53: OSGi Quando: sabato 20 febbraio 2010 dalle 9:00 alle 12:30 Dove: Aula Ce — piano terra del DEI, via Gradenigo 6/B (ingresso…","fields":{"slug":"/articles/2010/02/14/jug-meeting-53-osgi/"},"frontmatter":{"date":"12 anni fa","title":"JUG Meeting#53: OSGi","description":null,"author":{"username":"tarin.gamberini","fullname":"Tarin Gamberini","email":"tarin.gamberini@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"},{"name":"Eventi","permalink":"eventi"}],"tags":[{"name":"osgi","display":"OSGi"}]}}]}},"pageContext":{"title":"Posts with tag osgi","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"osgi"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

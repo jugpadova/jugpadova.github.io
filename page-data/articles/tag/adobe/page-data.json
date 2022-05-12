@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/adobe/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: sabato 21 marzo 2009 dalle 9:00 alle 12:30 Dove: Aula Ce — piano terra del DEI, via Gradenigo 6/B (ingresso\nstudenti), Padova…","fields":{"slug":"/articles/2009/02/21/jug-meeting-49-adobe-flex/"},"frontmatter":{"date":"13 anni fa","title":"JUG Meeting#49 - Adobe Flex","description":null,"author":{"username":"tarin.gamberini","fullname":"Tarin Gamberini","email":"tarin.gamberini@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"}],"tags":[{"name":"adobe","display":"Adobe"},{"name":"platform","display":"Platform"},{"name":"flex","display":"Flex"}]}}]}},"pageContext":{"title":"Posts with tag adobe","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"adobe"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

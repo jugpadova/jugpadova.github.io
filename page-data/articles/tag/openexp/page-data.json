@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/openexp/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Oggi (29/9) è cominciato l’OpenExp a Cerea. Il JUG Padova, come potete vedere dalla foto, è presente con il suo stand modello campo da…","fields":{"slug":"/articles/2006/09/29/jug-padova-openexp/"},"frontmatter":{"date":"16 anni fa","title":"JUG Padova @ OpenExp","description":null,"author":{"username":"lucio.benfante","fullname":"Lucio Benfante","email":"lucio.benfante@jugpadova.it"},"categories":[{"name":"Eventi","permalink":"eventi"}],"tags":[{"name":"openexp","display":"OpenExp"},{"name":"cerea","display":"Cerea"}]}}]}},"pageContext":{"title":"Posts with tag openexp","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"openexp"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

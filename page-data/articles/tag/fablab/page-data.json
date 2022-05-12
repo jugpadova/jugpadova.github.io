@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/fablab/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: sabato 27 Maggio 2017 Dove: Verona FabLab - Viale del lavoro 2 - Grezzana, Verona 37023 Guarda la cartina stradale: su\nopenstreetmap…","fields":{"slug":"/articles/2017/05/02/jug-meeting-76-unit-testing-con-postgresql/"},"frontmatter":{"date":"5 anni fa","title":"JUG Meeting#76: Unit Test su PostgreSQL","description":null,"author":{"username":"tarin.gamberini","fullname":"Tarin Gamberini","email":"tarin.gamberini@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"},{"name":"Eventi","permalink":"eventi"}],"tags":[{"name":"tdd","display":"tdd"},{"name":"postgre","display":"postgre"},{"name":"sql","display":"sql"},{"name":"fablab","display":"fablab"},{"name":"verona","display":"verona"}]}}]}},"pageContext":{"title":"Posts with tag fablab","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"fablab"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

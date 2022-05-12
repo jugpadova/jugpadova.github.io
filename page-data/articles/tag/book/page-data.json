@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/book/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Il primo capitolo introduce, praticamente con solo esempi e pochissima teoria, a quella che è la funzionalità di base di Spring, cioè l…","fields":{"slug":"/articles/2005/11/26/spring-a-developers-notebook/"},"frontmatter":{"date":"16 anni fa","title":"Spring - A Developer's Notebook","description":null,"author":{"username":"lucio.benfante","fullname":"Lucio Benfante","email":"lucio.benfante@jugpadova.it"},"categories":[{"name":"Recensioni","permalink":"recensioni"}],"tags":[{"name":"book","display":"book"},{"name":"spring","display":"spring"}]}}]}},"pageContext":{"title":"Posts with tag book","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"book"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

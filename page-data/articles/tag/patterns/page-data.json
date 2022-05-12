@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/patterns/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: Sabato 18 Novembre 2006 dalle 09:00 alle 13:00 Dove: aula De - piano terra del DEI, via Gradenigo 6/B (ingresso studenti), Padova…","fields":{"slug":"/articles/2006/11/14/jug-meeting-31/"},"frontmatter":{"date":"15 anni fa","title":"JUG Meeting #31","description":null,"author":{"username":"andrea.nasato","fullname":"Andrea Nasato","email":"andrea.nasato@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"}],"tags":[{"name":"patterns","display":"patterns"},{"name":"watermarking","display":"watermarking"},{"name":"tamper","display":"tamper"},{"name":"proofing","display":"proofing"},{"name":"obfuscation","display":"obfuscation"}]}}]}},"pageContext":{"title":"Posts with tag patterns","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"patterns"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/j-2-me/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: sabato 8 ottobre 2016 dalle 9:00 alle 12:30 Dove: CO+ in Piazza Gasparotto n.7, 35131 Padova PD, Italy. Guarda\nla cartina stradale…","fields":{"slug":"/articles/2016/09/27/jug-meeting-72-pit-iot-over-j2me/"},"frontmatter":{"date":"6 anni fa","title":"JUG Meeting#72: PIT & IoT","description":null,"author":{"username":"tarin.gamberini","fullname":"Tarin Gamberini","email":"tarin.gamberini@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"},{"name":"Eventi","permalink":"eventi"}],"tags":[{"name":"pit","display":"pit"},{"name":"testing","display":"testing"},{"name":"j2me","display":"j2me"},{"name":"iot","display":"iot"}]}}]}},"pageContext":{"title":"Posts with tag j2me","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"j2me"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

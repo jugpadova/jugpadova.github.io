@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/party/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"JUG Meeting#50 - Assemblea & Android & key signing party Quando: sabato 9 maggio 2009 dalle 9:00 alle 12:30 Dove: Aula Ce — piano terra del…","fields":{"slug":"/articles/2009/05/06/jug-meeting-50-assemblea-android-key-signing-party/"},"frontmatter":{"date":"13 anni fa","title":"JUG Meeting#50 - Assemblea & Android & key signing party","description":null,"author":{"username":"tarin.gamberini","fullname":"Tarin Gamberini","email":"tarin.gamberini@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"}],"tags":[{"name":"assemblea","display":"assemblea"},{"name":"android","display":"android"},{"name":"key","display":"key"},{"name":"signing","display":"signing"},{"name":"party","display":"party"}]}}]}},"pageContext":{"title":"Posts with tag party","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"party"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

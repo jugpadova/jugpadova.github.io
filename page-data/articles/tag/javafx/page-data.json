@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/javafx/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"JUG Meeting#51 - Introduzione a Scala, JAWR e JavaFX Quando: sabato 20 giugno 2009 dalle 9:15 alle 12:30 Dove: Aula Ce — piano terra del DEI…","fields":{"slug":"/articles/2009/06/06/jug-meeting-51-introduzione-a-scala/"},"frontmatter":{"date":"13 anni fa","title":"JUG Meeting#51 - Introduzione a Scala, JAWR e JavaFX","description":null,"author":{"username":"enrico.giurin","fullname":"Enrico Giurin","email":"enrico.giurin@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"}],"tags":[{"name":"scala","display":"scala"},{"name":"jawr","display":"JAWR"},{"name":"javafx","display":"JavaFX"}]}}]}},"pageContext":{"title":"Posts with tag javafx","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"javafx"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

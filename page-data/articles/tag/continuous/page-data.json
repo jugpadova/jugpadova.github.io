@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/continuous/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: sabato 27 settembre 2008 dalle 9:00 alle 12:30 Dove: Aula Ce — piano terra del DEI, via Gradenigo 6/B (ingresso\nstudenti), Padova…","fields":{"slug":"/articles/2008/09/08/jug-meeting-46-continuous-integration-and-closures/"},"frontmatter":{"date":"14 anni fa","title":"JUG Meeting#46 - Continuous Integration and Closures","description":null,"author":{"username":"enrico.giurin","fullname":"Enrico Giurin","email":"enrico.giurin@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"}],"tags":[{"name":"continuous","display":"Continuous"},{"name":"integration","display":"integration"},{"name":"closures","display":"closures"}]}}]}},"pageContext":{"title":"Posts with tag continuous","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"continuous"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

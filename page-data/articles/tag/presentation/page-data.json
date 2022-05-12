@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/presentation/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: sabato 12 luglio 2008 dalle 9:00 alle 12:30 Dove: Aula De — piano terra del DEI, via Gradenigo 6/B (ingresso\nstudenti), Padova…","fields":{"slug":"/articles/2008/07/04/jug-meeting-45-short-presentations/"},"frontmatter":{"date":"14 anni fa","title":"JUG Meeting#45 : short presentations","description":null,"author":{"username":"enrico.giurin","fullname":"Enrico Giurin","email":"enrico.giurin@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"}],"tags":[{"name":"meeting","display":"meeting"},{"name":"short","display":"short"},{"name":"presentation","display":"presentation"},{"name":"java","display":"java"}]}}]}},"pageContext":{"title":"Posts with tag presentation","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"presentation"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/netbeansdays/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quest’anno Sun organizza dei TechDays a Roma il 25 settembre 2007 a Milano il 27/28 settembre 2007 A fianco di questa giornate si sviluppa…","fields":{"slug":"/articles/2007/08/13/sun-techdays/"},"frontmatter":{"date":"15 anni fa","title":"Sun TechDays e NetBeans WorldTour2007/8","description":null,"author":{"username":"paolo.foletto","fullname":"Paolo Foletto","email":"pfoletto@tin.it"},"categories":[{"name":"Eventi","permalink":"eventi"}],"tags":[{"name":"techdays","display":"TechDays"},{"name":"netbeansdays","display":"NetbeansDays"}]}}]}},"pageContext":{"title":"Posts with tag netbeansdays","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"netbeansdays"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

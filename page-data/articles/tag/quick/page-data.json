@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/quick/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"For those who want everything under control, here’s a usefull\ncheat-sheet\nof maven 2. If you are saying something like “What’s maven…","fields":{"slug":"/articles/2007/01/19/maven2-quick-reference-card/"},"frontmatter":{"date":"15 anni fa","title":"Maven2 quick reference card","description":null,"author":{"username":"michele.franzin","fullname":"Michele Franzin","email":"michele.franzin@jugpadova.it"},"categories":[{"name":"Software","permalink":"software"}],"tags":[{"name":"maven2","display":"maven2"},{"name":"mvn","display":"mvn"},{"name":"cheatsheet","display":"cheatsheet"},{"name":"quick","display":"quick"},{"name":"reference","display":"reference"},{"name":"card","display":"card"}]}}]}},"pageContext":{"title":"Posts with tag quick","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"quick"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

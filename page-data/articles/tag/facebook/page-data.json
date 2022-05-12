@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/facebook/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"JUG Meeting#52: Devoxx 2009, Facebook integration Quando: sabato 28 novembre 2009 dalle 9:00 alle 12:30 Dove: Aula Ce — piano terra del DEI…","fields":{"slug":"/articles/2009/11/26/jug-meeting-52-devoxx-2009-facebook-integration/"},"frontmatter":{"date":"12 anni fa","title":"JUG Meeting#52: Devoxx 2009, Facebook integration","description":null,"author":{"username":"tarin.gamberini","fullname":"Tarin Gamberini","email":"tarin.gamberini@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"},{"name":"Eventi","permalink":"eventi"}],"tags":[{"name":"devoxx","display":"Devoxx"},{"name":"2009","display":"2009"},{"name":"facebook","display":"Facebook"},{"name":"integration","display":"integration"}]}}]}},"pageContext":{"title":"Posts with tag facebook","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"facebook"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

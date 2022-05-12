@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/sun/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: Sabato 8 Aprile 2006 dalle 09:00 alle 12:30 Dove: aula De - piano terra al DEI, via Gradenigo 6/B (ingresso studenti) Padova…","fields":{"slug":"/articles/2006/03/26/jugmeeting-27-grid-technologies-e-sun-free-software/"},"frontmatter":{"date":"16 anni fa","title":"JUGMeeting #27 - \"Grid technologies e Sun free software\"","description":null,"author":{"username":"andrea.nasato","fullname":"Andrea Nasato","email":"andrea.nasato@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"}],"tags":[{"name":"assemblea","display":"assemblea"},{"name":"grid","display":"grid"},{"name":"sun","display":"Sun"}]}}]}},"pageContext":{"title":"Posts with tag sun","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"sun"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

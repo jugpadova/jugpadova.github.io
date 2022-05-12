@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     version="2.0">
+    <channel>
+        <ttl>60</ttl>    
+        <title>JUG Padova Podcast</title>
+        <link>http://www.jugpadova.it</link>
+        <description>Spreading knowledge on Java Technologies</description>
+        <language>it-IT</language>
+        <copyright>JUG Padova</copyright>
+        <managingEditor>lucio.benfante@jugpadova.it</managingEditor>
+        <webMaster>info@jugpadova.it</webMaster>
+        <pubDate>Sun, 22 Apr 2007 09:04:14 GMT</pubDate>
+        <lastBuildDate>Fri, 04 May 2007 16:04:14 GMT</lastBuildDate>
+        <docs>http://www.jugpadova.it</docs>
+        <item>
+            <title>Fantastic Guitars Workshop</title>
+            <link>http://www.archive.org/download/Fantastic_Guitars_Workshop/JUGPD33_Foletto.mp3</link>
+            <guid>http://www.archive.org/download/Fantastic_Guitars_Workshop/JUGPD33_Foletto.mp3</guid>
+            <description>Great software in 3 easy steps. Prova di workshop durante il meeting #33 del JUG Padova. Registrato a Padova il 24 Marzo 2007.</description>
+            <author>lucio.benfante@jugpadova.it</author>
+            <enclosure url="http://www.archive.org/download/Fantastic_Guitars_Workshop/JUGPD33_Foletto.mp3" length="30261024" type="audio/mpeg"/>
+            <pubDate>Sun, 22 Apr 2007 09:04:14 GMT</pubDate>
+            <source url="http://www.archive.org/download/Fantastic_Guitars_Workshop/JUGPD33_Foletto.mp3">http://www.archive.org/download/Fantastic_Guitars_Workshop/JUGPD33_Foletto.mp3</source>
+        </item>                
+        <item>
+            <title>Security with ACEGI in Parancoe (audio)</title>
+            <link>http://ia350635.us.archive.org/0/items/JUGPD34_ACEGI_Giurin/JUGPD34_Giurin.mp3</link>
+            <guid>http://ia350635.us.archive.org/0/items/JUGPD34_ACEGI_Giurin/JUGPD34_Giurin.mp3</guid>
+            <description>Presentazione di Enrico Giurin durante il meeting #34 del JUG Padova. Registrato a Padova il 28 Aprile 2007.</description>
+            <author>lucio.benfante@jugpadova.it</author>
+            <enclosure url="http://ia350635.us.archive.org/0/items/JUGPD34_ACEGI_Giurin/JUGPD34_Giurin.mp3" length="7993728" type="audio/mpeg"/>
+            <pubDate>Fri, 04 May 2007 15:04:14 GMT</pubDate>
+            <source url="http://ia350635.us.archive.org/0/items/JUGPD34_ACEGI_Giurin/JUGPD34_Giurin.mp3">http://ia350635.us.archive.org/0/items/JUGPD34_ACEGI_Giurin/JUGPD34_Giurin.mp3</source>
+        </item>                
+        <item>
+            <title>Security with ACEGI in Parancoe (video)</title>
+            <link>http://www.archive.org/download/JUGPD34_ACEGI_Giurin/JUGPD34_Giurin_256kb.mp4</link>
+            <guid>http://www.archive.org/download/JUGPD34_ACEGI_Giurin/JUGPD34_Giurin_256kb.mp4</guid>
+            <description>Presentazione di Enrico Giurin durante il meeting #34 del JUG Padova. Registrato a Padova il 28 Aprile 2007.</description>
+            <author>lucio.benfante@jugpadova.it</author>
+            <enclosure url="http://www.archive.org/download/JUGPD34_ACEGI_Giurin/JUGPD34_Giurin_256kb.mp4" length="44718604" type="video/mp4"/>
+            <pubDate>Fri, 04 May 2007 15:04:14 GMT</pubDate>
+            <source url="http://www.archive.org/download/JUGPD34_ACEGI_Giurin/JUGPD34_Giurin_256kb.mp4">http://www.archive.org/download/JUGPD34_ACEGI_Giurin/JUGPD34_Giurin_256kb.mp4</source>
+        </item>                
+        <item>
+            <title>Writing a DAO with Parancoe (audio)</title>
+            <link>http://ia340931.us.archive.org/1/items/JUGPD34_DAO_Benfante/JUGPD34_Benfante.mp3</link>
+            <guid>http://ia340931.us.archive.org/1/items/JUGPD34_DAO_Benfante/JUGPD34_Benfante.mp3</guid>
+            <description>Presentazione di Lucio Benfante durante il meeting #34 del JUG Padova. Registrato a Padova il 28 Aprile 2007.</description>
+            <author>lucio.benfante@jugpadova.it</author>
+            <enclosure url="http://ia340931.us.archive.org/1/items/JUGPD34_DAO_Benfante/JUGPD34_Benfante.mp3" length="7993728" type="audio/mpeg"/>
+            <pubDate>Fri, 04 May 2007 16:04:14 GMT</pubDate>
+            <source url="http://ia340931.us.archive.org/1/items/JUGPD34_DAO_Benfante/JUGPD34_Benfante.mp3">http://ia340931.us.archive.org/1/items/JUGPD34_DAO_Benfante/JUGPD34_Benfante.mp3</source>
+        </item>                
+        <item>
+            <title>Writing a DAO with Parancoe (video)</title>
+            <link>http://www.archive.org/download/JUGPD34_DAO_Benfante/JUGPD34_Benfante_256kb.mp4</link>
+            <guid>http://www.archive.org/download/JUGPD34_DAO_Benfante/JUGPD34_Benfante_256kb.mp4</guid>
+            <description>Presentazione di Lucio Benfante durante il meeting #34 del JUG Padova. Registrato a Padova il 28 Aprile 2007.</description>
+            <author>lucio.benfante@jugpadova.it</author>
+            <enclosure url="http://www.archive.org/download/JUGPD34_DAO_Benfante/JUGPD34_Benfante_256kb.mp4" length="44718604" type="video/mp4"/>
+            <pubDate>Fri, 04 May 2007 16:04:14 GMT</pubDate>
+            <source url="http://www.archive.org/download/JUGPD34_DAO_Benfante/JUGPD34_Benfante_256kb.mp4">http://www.archive.org/download/JUGPD34_DAO_Benfante/JUGPD34_Benfante_256kb.mp4</source>
+        </item>                
+    </channel>
+</rss>

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/acegi/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: Sabato 28 Aprile 2007 dalle 09:15 alle 12:30 *Dove: aula De - primo piano del DEI, via Gradenigo 6/B (ingresso studenti) Padova…","fields":{"slug":"/articles/2007/04/24/jugmeeting-34-assemblea-annuale-dei-soci/"},"frontmatter":{"date":"15 anni fa","title":"JUGMeeting #34 - Assemblea Annuale dei soci","description":null,"author":{"username":"enrico.giurin","fullname":"Enrico Giurin","email":"enrico.giurin@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"}],"tags":[{"name":"meeting","display":"meeting"},{"name":"parancoe","display":"Parancoe"},{"name":"dao","display":"DAO"},{"name":"acegi","display":"acegi"}]}}]}},"pageContext":{"title":"Posts with tag acegi","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"acegi"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

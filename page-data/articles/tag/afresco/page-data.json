@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/afresco/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: Sabato 15 dicembre 2007 dalle 09:15 alle 12:30 Dove: aula De - piano terra del DEI, via Gradenigo 6/B (ingresso studenti), Padova…","fields":{"slug":"/articles/2007/12/06/jug-meeting-39/"},"frontmatter":{"date":"14 anni fa","title":"JUG Meeting #39","description":null,"author":{"username":"enrico.giurin","fullname":"Enrico Giurin","email":"enrico.giurin@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"}],"tags":[{"name":"meeting","display":"meeting"},{"name":"jboss","display":"jboss"},{"name":"seam","display":"seam"},{"name":"afresco","display":"afresco"},{"name":"javapolis","display":"javapolis"}]}}]}},"pageContext":{"title":"Posts with tag afresco","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"afresco"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

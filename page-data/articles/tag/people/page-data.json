@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/people/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Felipe Gaúcho was one of the best promoters and supporters of the JUG\nmovements. Unfortunately he passed away too soon. The JUG community…","fields":{"slug":"/articles/2010/03/07/goodbye-felipe/"},"frontmatter":{"date":"12 anni fa","title":"Goodbye Felipe","description":null,"author":{"username":"lucio.benfante","fullname":"Lucio Benfante","email":"lucio.benfante@jugpadova.it"},"categories":[{"name":"People","permalink":"people"}],"tags":[{"name":"people","display":"people"}]}}]}},"pageContext":{"title":"Posts with tag people","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"people"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

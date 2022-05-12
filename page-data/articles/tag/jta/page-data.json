@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/jta/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Few weeks ago I started using Maven 2 for one of my development projects. The project is very simple, but it has dependencies with some…","fields":{"slug":"/articles/2005/11/26/maven-2-spring-and-jta-depencies/"},"frontmatter":{"date":"16 anni fa","title":"Maven 2: Spring and JTA dependencies","description":null,"author":{"username":"lucio.benfante","fullname":"Lucio Benfante","email":"lucio.benfante@jugpadova.it"},"categories":[{"name":"Tips & Tricks","permalink":"tips-and-tricks"}],"tags":[{"name":"maven","display":"maven"},{"name":"spring","display":"spring"},{"name":"jta","display":"jta"},{"name":"dependency","display":"dependency"}]}}]}},"pageContext":{"title":"Posts with tag jta","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"jta"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

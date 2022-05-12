@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/7/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"JUG Meeting#59: Java 7 Launch Quando: sabato 9 luglio 2011 dalle 9:00 alle 12:30 Dove: Aula Ce presso il\nDEI in via\nGradenigo 6/B (ingresso…","fields":{"slug":"/articles/2011/06/24/jug-meeting-59-java-7-launch/"},"frontmatter":{"date":"11 anni fa","title":"JUG Meeting#59: Java 7 Launch","description":null,"author":{"username":"tarin.gamberini","fullname":"Tarin Gamberini","email":"tarin.gamberini@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"},{"name":"Eventi","permalink":"eventi"}],"tags":[{"name":"java","display":"java"},{"name":"7","display":"7"},{"name":"features","display":"features"}]}}]}},"pageContext":{"title":"Posts with tag 7","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"7"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

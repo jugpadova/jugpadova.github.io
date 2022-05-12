@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/mvc/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"On June 26th Parancoe will\nbe showed at jazoon. Parancoe is a project aiming to simplify the release of web\napplications promoting the…","fields":{"slug":"/articles/2007/06/10/parancoe-jazoon2007/"},"frontmatter":{"date":"15 anni fa","title":"Parancoe@Jazoon2007","description":null,"author":{"username":"enrico.giurin","fullname":"Enrico Giurin","email":"enrico.giurin@jugpadova.it"},"categories":[{"name":"Eventi","permalink":"eventi"}],"tags":[{"name":"parancoe","display":"Parancoe"},{"name":"jazoon","display":"jazoon"},{"name":"mvc","display":"MVC"},{"name":"dry","display":"DRY"},{"name":"coc","display":"COC"}]}}]}},"pageContext":{"title":"Posts with tag mvc","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"mvc"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

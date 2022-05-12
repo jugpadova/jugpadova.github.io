@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/rails/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: Sabato 20 Maggio 2006 dalle 09:00 alle 12:30 Dove: aula Me - primo piano del DEI, via Gradenigo 6/B (ingresso studenti) Padova…","fields":{"slug":"/articles/2006/04/30/jug-meeting-28-da-java-a-ruby-e-ritorno/"},"frontmatter":{"date":"16 anni fa","title":"JUG Meeting #28 - \"Da Java a Ruby e ritorno\"","description":null,"author":{"username":"paolo.dona","fullname":"Paolo Dona'","email":"paolo.dona@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"}],"tags":[{"name":"ruby","display":"ruby"},{"name":"java","display":"java"},{"name":"rails","display":"rails"},{"name":"activerecord","display":"activerecord"}]}}]}},"pageContext":{"title":"Posts with tag rails","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"rails"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

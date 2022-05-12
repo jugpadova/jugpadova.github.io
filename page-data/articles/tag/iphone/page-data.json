@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/iphone/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"JUG Meeting#58: Sviluppo per iPhone Quando: sabato 18 giugno 2011 dalle 9:00 alle 12:30 Dove: Aula De presso il\nDEI in via\nGradenigo 6/B…","fields":{"slug":"/articles/2011/06/12/jug-meeting-58-sviluppo-per-iphone/"},"frontmatter":{"date":"11 anni fa","title":"JUG Meeting#58: Sviluppo per iPhone","description":null,"author":{"username":"tarin.gamberini","fullname":"Tarin Gamberini","email":"tarin.gamberini@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"},{"name":"Eventi","permalink":"eventi"},{"name":"Programmazione","permalink":"programmazione"}],"tags":[{"name":"iphone","display":"iPhone"}]}}]}},"pageContext":{"title":"Posts with tag iphone","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"iphone"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

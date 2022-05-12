@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/weboe/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: Sabato 29 marzo 2008 dalle 09:15 alle 12:30 Dove: aula De - piano terra del DEI, via Gradenigo 6/B (ingresso studenti), Interventi…","fields":{"slug":"/articles/2008/03/12/jug-meeting-42/"},"frontmatter":{"date":"14 anni fa","title":"JUG Meeting#42","description":null,"author":{"username":"enrico.giurin","fullname":"Enrico Giurin","email":"enrico.giurin@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"}],"tags":[{"name":"android","display":"android"},{"name":"weboe","display":"weboe"}]}}]}},"pageContext":{"title":"Posts with tag weboe","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"weboe"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

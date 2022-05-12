@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/spark/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: sabato 28 Gennaio 2017 Dove: Sala Nobile presso la biblioteca del Comune di Lendinara - Via\nGianbattista Conti, 30 - 45026 Lendinara…","fields":{"slug":"/articles/2017/01/18/jug-meeting-74-spark-xtend-iot/"},"frontmatter":{"date":"5 anni fa","title":"JUG Meeting#74: Spark - Xtend - IoT","description":null,"author":{"username":"tarin.gamberini","fullname":"Tarin Gamberini","email":"tarin.gamberini@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"},{"name":"Eventi","permalink":"eventi"}],"tags":[{"name":"spark","display":"Spark"},{"name":"xtend","display":"xtend"},{"name":"iot","display":"iot"}]}}]}},"pageContext":{"title":"Posts with tag spark","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"spark"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

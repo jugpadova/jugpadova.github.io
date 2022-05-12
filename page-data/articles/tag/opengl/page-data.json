@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/opengl/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"After several years of development, finally the first stable release of\nthe Lightweight Java Game Library (LWJGL) arrived. The Lightweight…","fields":{"slug":"/articles/2007/02/26/lwjgl-1-0-released/"},"frontmatter":{"date":"15 anni fa","title":"LWJGL 1.0 released","description":null,"author":{"username":"dario.santamaria","fullname":"Dario Santamaria","email":"dario.santamaria@jugpadova.it"},"categories":[{"name":"Software","permalink":"software"}],"tags":[{"name":"java3d","display":"Java3D"},{"name":"opengl","display":"openGL"},{"name":"openal","display":"openAL"}]}}]}},"pageContext":{"title":"Posts with tag opengl","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"opengl"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

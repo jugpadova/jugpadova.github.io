@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/ejb/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: Sabato 21 Ottobre 2006 dalle 09:00 alle 13:00 Dove: aula De - piano terra del DEI, via Gradenigo 6/B (ingresso studenti), Padova…","fields":{"slug":"/articles/2006/10/12/jug-meeting-30/"},"frontmatter":{"date":"16 anni fa","title":"JUG Meeting #30","description":null,"author":{"username":"lucio.benfante","fullname":"Lucio Benfante","email":"lucio.benfante@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"}],"tags":[{"name":"java3d","display":"Java3D"},{"name":"jee","display":"JEE"},{"name":"ejb","display":"EJB"}]}}]}},"pageContext":{"title":"Posts with tag ejb","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"ejb"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/cad/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Il Java User Group Padova ha partecipato al Tavolo di\nLavoro\nper la redazione delle linee guida su Criteri per valutazioni\ncomparative ai…","fields":{"slug":"/articles/2014/01/14/partecipazione-tavolo-linee-guida-art-68-del-cad/"},"frontmatter":{"date":"8 anni fa","title":"Partecipazione TdL Linee Guida Art. 68 del CAD","description":null,"author":{"username":"tarin.gamberini","fullname":"Tarin Gamberini","email":"tarin.gamberini@jugpadova.it"},"categories":[{"name":"Eventi","permalink":"eventi"}],"tags":[{"name":"art","display":"art"},{"name":"68","display":"68"},{"name":"cad","display":"CAD"},{"name":"linee","display":"linee"},{"name":"guida","display":"guida"},{"name":"agid","display":"AgId"}]}}]}},"pageContext":{"title":"Posts with tag cad","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"cad"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

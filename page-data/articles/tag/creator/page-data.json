@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/creator/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"On Linux, the required distribution for Java Studio Creator 2 (now Free for all SDN members) is Fedora. I’m a Debian user and I succeeded to…","fields":{"slug":"/articles/2006/01/26/installing-java-studio-creator-2-on-debian/"},"frontmatter":{"date":"16 anni fa","title":"Installing Java Studio Creator 2 on Debian","description":null,"author":{"username":"dario.santamaria","fullname":"Dario Santamaria","email":"dario.santamaria@jugpadova.it"},"categories":[{"name":"Tips & Tricks","permalink":"tips-and-tricks"}],"tags":[{"name":"install","display":"install"},{"name":"creator","display":"creator"},{"name":"debian","display":"debian"}]}}]}},"pageContext":{"title":"Posts with tag creator","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"creator"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

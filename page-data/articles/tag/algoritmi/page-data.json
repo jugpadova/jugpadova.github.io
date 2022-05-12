@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/algoritmi/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: Sabato 24 novembre 2007 dalle 09:15 alle 12:30 Dove: aula De - piano terra del DEI, via Gradenigo 6/B (ingresso studenti), Padova…","fields":{"slug":"/articles/2007/11/10/jug-meeting-38/"},"frontmatter":{"date":"15 anni fa","title":"JUG Meeting #38","description":null,"author":{"username":"enrico.giurin","fullname":"Enrico Giurin","email":"enrico.giurin@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"}],"tags":[{"name":"jug","display":"JUG"},{"name":"plugin","display":"plugin"},{"name":"algoritmi","display":"algoritmi"},{"name":"padova","display":"Padova"}]}}]}},"pageContext":{"title":"Posts with tag algoritmi","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"algoritmi"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

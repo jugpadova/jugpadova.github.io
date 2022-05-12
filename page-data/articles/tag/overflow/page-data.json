@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/overflow/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"…presente nel JDK, e probabilmente nella maggior parte delle implementazioni di algoritmi con approccio “divide et impera”. Quanti di noi…","fields":{"slug":"/articles/2006/06/16/bug-storico/"},"frontmatter":{"date":"16 anni fa","title":"Bug storico...","description":null,"author":{"username":"lucio.benfante","fullname":"Lucio Benfante","email":"lucio.benfante@jugpadova.it"},"categories":[{"name":"Programmazione","permalink":"programmazione"}],"tags":[{"name":"bug","display":"bug"},{"name":"binary","display":"binary"},{"name":"search","display":"search"},{"name":"overflow","display":"overflow"}]}}]}},"pageContext":{"title":"Posts with tag overflow","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"overflow"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

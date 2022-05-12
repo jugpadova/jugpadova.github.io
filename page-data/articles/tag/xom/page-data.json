@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/xom/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Today I want to introduce you into XOM, which is one of the two\narguments I’m going to talk about in our next\nmeeting (the second is JSF 1.…","fields":{"slug":"/articles/2006/01/15/xom/"},"frontmatter":{"date":"16 anni fa","title":"Xom","description":null,"author":{"username":"andrea.nasato","fullname":"Andrea Nasato","email":"andrea.nasato@jugpadova.it"},"categories":[{"name":"Tips & Tricks","permalink":"tips-and-tricks"}],"tags":[{"name":"xom","display":"xom"},{"name":"xml","display":"xml"}]}}]}},"pageContext":{"title":"Posts with tag xom","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"xom"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

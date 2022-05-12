@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/hibernate/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: Sabato 18 Marzo 2006 dalle 09:00 alle 12:30 Dove: aula De - piano terra al DEI, via Gradenigo 6/B (ingresso studenti) Padova…","fields":{"slug":"/articles/2006/03/10/jugmeeting-26-ofbiz-e-hibernate/"},"frontmatter":{"date":"16 anni fa","title":"JUGMeeting #26 - \"OFBiz e Hibernate\"","description":null,"author":{"username":"andrea.nasato","fullname":"Andrea Nasato","email":"andrea.nasato@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"}],"tags":[{"name":"ofbiz","display":"OFBiz"},{"name":"hibernate","display":"Hibernate"},{"name":"annotation","display":"annotation"},{"name":"intellij","display":"IntelliJ"}]}}]}},"pageContext":{"title":"Posts with tag hibernate","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"hibernate"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

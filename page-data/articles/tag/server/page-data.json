@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/server/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"During the last 5 days the server hosting Jug Padova has been\nerased+reconfigured due to an intrusion of some guys who wanted to play with…","fields":{"slug":"/articles/2006/02/26/jugpadova-is-dead-w-jugpadova/"},"frontmatter":{"date":"16 anni fa","title":"JugPadova is dead... W JugPadova!","description":null,"author":{"username":"michele.franzin","fullname":"Michele Franzin","email":"michele.franzin@jugpadova.it"},"categories":null,"tags":[{"name":"server","display":"server"},{"name":"intrusion","display":"intrusion"},{"name":"downtime","display":"downtime"}]}}]}},"pageContext":{"title":"Posts with tag server","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"server"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

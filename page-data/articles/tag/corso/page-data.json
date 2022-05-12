@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/corso/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"JUG Meeting#60: Corso iReport Quando: sabato 24 settembre dalle 9:00 alle 18:00 Dove: La Forma\ndel Libro via XX Settembre, 63 Padova . Un…","fields":{"slug":"/articles/2011/08/21/jug-meeting-60-corso-ireport/"},"frontmatter":{"date":"11 anni fa","title":"JUG Meeting#60: Corso iReport","description":null,"author":{"username":"tarin.gamberini","fullname":"Tarin Gamberini","email":"tarin.gamberini@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"},{"name":"Software","permalink":"software"},{"name":"Eventi","permalink":"eventi"}],"tags":[{"name":"corso","display":"Corso"},{"name":"ireport","display":"ireport"}]}}]}},"pageContext":{"title":"Posts with tag corso","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"corso"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

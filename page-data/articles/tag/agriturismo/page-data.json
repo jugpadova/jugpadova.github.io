@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/agriturismo/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Lo scorso weekend si è svolto il primo\nAgri-Meeting,\nun meeting inter-JUG, in un ambiente informale come quello di un\nagriturismo. Lo scopo…","fields":{"slug":"/articles/2007/10/08/agri-meeting/"},"frontmatter":{"date":"15 anni fa","title":"Agri-Meeting","description":null,"author":{"username":"lucio.benfante","fullname":"Lucio Benfante","email":"lucio.benfante@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"}],"tags":[{"name":"meeting","display":"meeting"},{"name":"agriturismo","display":"agriturismo"}]}}]}},"pageContext":{"title":"Posts with tag agriturismo","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"agriturismo"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

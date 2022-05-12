@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/scjp/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Il libro che ho utilizzato per sostenere la mia prima (e unica) certificazione java (la SCJP 1.4) è stato il “Sun Certified Programmer…","fields":{"slug":"/articles/2006/06/03/sun-certified-programmer-developer-for-java-2/"},"frontmatter":{"date":"16 anni fa","title":"Sun Certified Programmer & Developer for Java 2","description":null,"author":{"username":"emanuele.gesuato","fullname":"Emanuele Gesuato","email":""},"categories":[{"name":"Recensioni","permalink":"recensioni"}],"tags":[{"name":"certificazione","display":"certificazione"},{"name":"libro","display":"libro"},{"name":"scjp","display":"scjp"}]}}]}},"pageContext":{"title":"Posts with tag scjp","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"scjp"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

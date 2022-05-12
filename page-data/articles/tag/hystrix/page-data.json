@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/hystrix/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: sabato 30 maggio 2015 dalle 9 alle 12:40 Dove: Strada le grazie 15,\nVerona Edificio Vignal 3 (Piramide) - Sala verde, piano…","fields":{"slug":"/articles/2015/05/20/jug/"},"frontmatter":{"date":"7 anni fa","title":"JUG Meeting#68: JULIA - AngularJs - Netflix/Hystrix","description":null,"author":{"username":"tarin.gamberini","fullname":"Tarin Gamberini","email":"tarin.gamberini@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"},{"name":"Eventi","permalink":"eventi"}],"tags":[{"name":"julia","display":"JULIA"},{"name":"angular","display":"Angular"},{"name":"netflix","display":"Netflix"},{"name":"hystrix","display":"Hystrix"}]}}]}},"pageContext":{"title":"Posts with tag hystrix","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"hystrix"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

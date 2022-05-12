@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/portofino/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: sabato 28 febbraio 2015 dalle 9 alle 12:30 Dove: Talentlab\na.p.s. via Monselice 15a - 35142 Padova Programma 9:00 Accoglienza 9:1…","fields":{"slug":"/articles/2015/02/19/ug-meeting-67-portofino-scrum/"},"frontmatter":{"date":"7 anni fa","title":"JUG Meeting#67: Portofino e Scrum","description":null,"author":{"username":"tarin.gamberini","fullname":"Tarin Gamberini","email":"tarin.gamberini@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"},{"name":"Eventi","permalink":"eventi"}],"tags":[{"name":"portofino","display":"portofino"},{"name":"scrum","display":"scrum"}]}}]}},"pageContext":{"title":"Posts with tag portofino","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"portofino"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

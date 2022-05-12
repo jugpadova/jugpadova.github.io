@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/intellijidea/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"È uscito da qualche giorno la versione 6.0 del ”most intelligent Java\nIDE IntellijIDEA”, disponibile ora per il download. Coloro che…","fields":{"slug":"/articles/2006/10/07/jetbrains-intellijidea-6-0/"},"frontmatter":{"date":"16 anni fa","title":"JetBrains IntellijIDEA 6.0","description":null,"author":{"username":"dario.santamaria","fullname":"Dario Santamaria","email":"dario.santamaria@jugpadova.it"},"categories":[{"name":"Software","permalink":"software"}],"tags":[{"name":"intellijidea","display":"IntellijIDEA"},{"name":"ide","display":"ide"}]}}]}},"pageContext":{"title":"Posts with tag intellijidea","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"intellijidea"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/torpark/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"AAMS, a branch of italian government, impose to all Italian Internet\nService Provider to inhibit access to a set of sites, the most part of…","fields":{"slug":"/articles/2006/03/09/torpark-and-u-are-free-to-go-everywhere/"},"frontmatter":{"date":"16 anni fa","title":"Torpark...and u are free to go everywhere","description":null,"author":{"username":"enrico.giurin","fullname":"Enrico Giurin","email":"enrico.giurin@jugpadova.it"},"categories":[{"name":"Software","permalink":"software"}],"tags":[{"name":"torpark","display":"torpark"}]}}]}},"pageContext":{"title":"Posts with tag torpark","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"torpark"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

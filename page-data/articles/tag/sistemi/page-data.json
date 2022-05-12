@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/sistemi/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: sabato 19 aprile 2008 dalle 9,15 alle 12,30 Dove: Aula Ce — piano terra del DEI, via Gradenigo 6/B (ingresso\nstudenti), via…","fields":{"slug":"/articles/2008/04/10/jug-meeting-43-assemblea-dei-soci/"},"frontmatter":{"date":"14 anni fa","title":"JUG Meeting#43 - Assemblea dei soci","description":null,"author":{"username":"enrico.giurin","fullname":"Enrico Giurin","email":"enrico.giurin@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"}],"tags":[{"name":"assemblea","display":"assemblea"},{"name":"sistemi","display":"sistemi"},{"name":"legacy","display":"legacy"}]}}]}},"pageContext":{"title":"Posts with tag sistemi","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"sistemi"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/x-3-d/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Xj3D is an open source X3D browser, developer library and test\nenvironment for the X3D real time 3D content and delivery standard. Xj3D is a…","fields":{"slug":"/articles/2006/04/19/xj3d-milestone-1-0/"},"frontmatter":{"date":"16 anni fa","title":"Xj3D milestone 1.0","description":null,"author":{"username":"dario.santamaria","fullname":"Dario Santamaria","email":"dario.santamaria@jugpadova.it"},"categories":[{"name":"Software","permalink":"software"}],"tags":[{"name":"xj3d","display":"Xj3D"},{"name":"3d","display":"3D"},{"name":"x3d","display":"X3D"},{"name":"vrml","display":"VRML"}]}}]}},"pageContext":{"title":"Posts with tag x3d","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"x3d"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/cagliari/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"La settimana scorsa io, Paolo D. e Andrea S. siamo andati in moto a Cagliari per partecipare allo Spring Framework Meeting 2007. Venerdì ci…","fields":{"slug":"/articles/2007/07/20/gita-in-sardegna/"},"frontmatter":{"date":"15 anni fa","title":"Gita in Sardegna","description":null,"author":{"username":"lucio.benfante","fullname":"Lucio Benfante","email":"lucio.benfante@jugpadova.it"},"categories":[{"name":"Eventi","permalink":"eventi"}],"tags":[{"name":"spring","display":"spring"},{"name":"meeting","display":"meeting"},{"name":"cagliari","display":"Cagliari"}]}}]}},"pageContext":{"title":"Posts with tag cagliari","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"cagliari"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/thoughtworks/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: venerdì 07 Aprile 2017 Dove: Finantix - Via della Pila, 13 - 30175 Marghera (VE) dietro la\nstazione dei treni Guarda la cartina…","fields":{"slug":"/articles/2017/03/20/jug-meeting-75-tdd-thoughtworks/"},"frontmatter":{"date":"5 anni fa","title":"JUG Meeting#75: TDD & ThoughtWorks","description":null,"author":{"username":"tarin.gamberini","fullname":"Tarin Gamberini","email":"tarin.gamberini@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"},{"name":"Eventi","permalink":"eventi"}],"tags":[{"name":"tdd","display":"tdd"},{"name":"thoughtworks","display":"thoughtworks"}]}}]}},"pageContext":{"title":"Posts with tag thoughtworks","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"thoughtworks"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

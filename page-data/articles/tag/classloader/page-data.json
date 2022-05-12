@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/classloader/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Sometimes in production environments I face problems never encountered during development… It’s a general thing.. could happen with jdbc…","fields":{"slug":"/articles/2005/11/13/from-which-jar-a-class-was-loaded/"},"frontmatter":{"date":"16 anni fa","title":"From which Jar a Class was loaded?","description":null,"author":{"username":"paolo.dona","fullname":"Paolo Dona'","email":"paolo.dona@jugpadova.it"},"categories":null,"tags":[{"name":"class","display":"class"},{"name":"classloader","display":"classloader"},{"name":"jar","display":"jar"},{"name":"java","display":"java"}]}}]}},"pageContext":{"title":"Posts with tag classloader","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"classloader"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

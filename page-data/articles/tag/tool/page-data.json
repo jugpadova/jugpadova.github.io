@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/tool/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"I was investigating about a good tool for profiling when I met with findbugs.\r\nTo be honest I found discussion about this tool in a thread…","fields":{"slug":"/articles/2006/05/17/findbugs-to-discover-bugs/"},"frontmatter":{"date":"16 anni fa","title":"findbugs to discover bugs","description":null,"author":{"username":"enrico.giurin","fullname":"Enrico Giurin","email":"enrico.giurin@jugpadova.it"},"categories":[{"name":"Software","permalink":"software"}],"tags":[{"name":"bug","display":"bug"},{"name":"tool","display":"tool"}]}}]}},"pageContext":{"title":"Posts with tag tool","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"tool"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

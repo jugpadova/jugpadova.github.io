@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/enterprise/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Titolo: Enterprise Integration with RubyAutore: Maik\nSchmidtPagine: 346Anno: 2006Casa Editrice: The Pragmatic\nProgrammers LLC.ISBN:…","fields":{"slug":"/articles/2006/05/14/enterprise-integration-with-ruby/"},"frontmatter":{"date":"16 anni fa","title":"Enterprise Integration with Ruby","description":null,"author":{"username":"lucio.benfante","fullname":"Lucio Benfante","email":"lucio.benfante@jugpadova.it"},"categories":[{"name":"Recensioni","permalink":"recensioni"}],"tags":[{"name":"ruby","display":"ruby"},{"name":"enterprise","display":"enterprise"},{"name":"integration","display":"integration"}]}}]}},"pageContext":{"title":"Posts with tag enterprise","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"enterprise"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

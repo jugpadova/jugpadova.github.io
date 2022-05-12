@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/javaday/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Sabato scorso io (Lucio) ed\nEnrico abbiamo partecipato al JavaDay\ndi Torino. Troverete le trasparenze delle nostre presentazioni nel sito di…","fields":{"slug":"/articles/2007/10/22/jugpadova-javaday-di-torino/"},"frontmatter":{"date":"15 anni fa","title":"JUGPadova@JavaDay di Torino","description":null,"author":{"username":"lucio.benfante","fullname":"Lucio Benfante","email":"lucio.benfante@jugpadova.it"},"categories":[{"name":"Eventi","permalink":"eventi"}],"tags":[{"name":"javaday","display":"javaday"}]}}]}},"pageContext":{"title":"Posts with tag javaday","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"javaday"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

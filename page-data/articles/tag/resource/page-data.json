@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/resource/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Sometimes it is useful to distribute an application in a jar file through Java Web Start or any other way. So, you could have to read some…","fields":{"slug":"/articles/2006/02/05/accessing-a-resource-within-a-jar/"},"frontmatter":{"date":"16 anni fa","title":"Accessing a resource within a .jar","description":null,"author":{"username":"emanuele.gesuato","fullname":"Emanuele Gesuato","email":""},"categories":[{"name":"Tips & Tricks","permalink":"tips-and-tricks"}],"tags":[{"name":"jar","display":"jar"},{"name":"resource","display":"resource"}]}}]}},"pageContext":{"title":"Posts with tag resource","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"resource"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

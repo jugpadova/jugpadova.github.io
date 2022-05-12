@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/facelets/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"One of the main issues with JSF is the plenty of use of custom tags in\nthe view. If you don’t want to use a visual instrument like Java…","fields":{"slug":"/articles/2005/11/22/jsf-and-facelets/"},"frontmatter":{"date":"16 anni fa","title":"JSF and Facelets","description":null,"author":{"username":"andrea.nasato","fullname":"Andrea Nasato","email":"andrea.nasato@jugpadova.it"},"categories":[{"name":"Tips & Tricks","permalink":"tips-and-tricks"}],"tags":[{"name":"jsf","display":"JSF"},{"name":"facelets","display":"Facelets"}]}}]}},"pageContext":{"title":"Posts with tag facelets","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"facelets"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

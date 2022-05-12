@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/cena/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: mercoledì 18 dicembre 2013 dalle 19:30 alle 23:30 Dove: Ristorante pizzeria\nforcellini172 Via Forcellini, 172 - Padova Cena con…","fields":{"slug":"/articles/2013/12/17/cena-sociale/"},"frontmatter":{"date":"8 anni fa","title":"Cena Sociale","description":null,"author":{"username":"tarin.gamberini","fullname":"Tarin Gamberini","email":"tarin.gamberini@jugpadova.it"},"categories":[{"name":"Eventi","permalink":"eventi"},{"name":"People","permalink":"people"}],"tags":[{"name":"cena","display":"cena"}]}}]}},"pageContext":{"title":"Posts with tag cena","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"cena"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

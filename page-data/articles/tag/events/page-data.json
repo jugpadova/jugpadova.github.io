@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/events/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Ottimo risultato questa settimana per la nostra applicazione JUG\nEvents. E’ infatti esposta nella home page di\njava.net: <typo:lightbox img…","fields":{"slug":"/articles/2008/04/15/jug-events/"},"frontmatter":{"date":"14 anni fa","title":"JUG Events","description":null,"author":{"username":"lucio.benfante","fullname":"Lucio Benfante","email":"lucio.benfante@jugpadova.it"},"categories":[{"name":"Software","permalink":"software"}],"tags":[{"name":"jug","display":"JUG"},{"name":"events","display":"Events"}]}}]}},"pageContext":{"title":"Posts with tag events","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"events"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

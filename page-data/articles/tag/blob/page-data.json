@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/blob/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Sometimes,  in my work as programmer, I need to serialize an object (bean) into a table, in a BLOB field, as well as retrieves bean from a…","fields":{"slug":"/articles/2006/01/10/serialize-a-bean-using-jdbc/"},"frontmatter":{"date":"16 anni fa","title":"Serialize a bean using jdbc","description":null,"author":{"username":"enrico.giurin","fullname":"Enrico Giurin","email":"enrico.giurin@jugpadova.it"},"categories":[{"name":"Tips & Tricks","permalink":"tips-and-tricks"}],"tags":[{"name":"blob","display":"blob"},{"name":"jdbc","display":"jdbc"},{"name":"bean","display":"bean"}]}}]}},"pageContext":{"title":"Posts with tag blob","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"blob"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

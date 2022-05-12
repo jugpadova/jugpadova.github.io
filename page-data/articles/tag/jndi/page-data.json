@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/jndi/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"You’ll find an article in italian on the same topic in my personal blog. In Tomcat you can define a JNDI Resource for a JavaMail session…","fields":{"slug":"/articles/2007/03/13/tomcat-5-5-20-and-javamail-sessions/"},"frontmatter":{"date":"15 anni fa","title":"Tomcat 5.5.20 and JavaMail Sessions","description":null,"author":{"username":"lucio.benfante","fullname":"Lucio Benfante","email":"lucio.benfante@jugpadova.it"},"categories":[{"name":"Tips & Tricks","permalink":"tips-and-tricks"},{"name":"Programmazione","permalink":"programmazione"}],"tags":[{"name":"tomcat","display":"Tomcat"},{"name":"javamail","display":"JavaMail"},{"name":"jndi","display":"JNDI"},{"name":"bug","display":"bug"}]}}]}},"pageContext":{"title":"Posts with tag jndi","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"jndi"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

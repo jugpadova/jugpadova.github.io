@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/versione/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Il JUG Padova ha tradotto in italiano la specifica Semantic Versioning\n2.0.0. Leggi come si sono svolti i lavori di traduzione e\nrevisione…","fields":{"slug":"/articles/2013/12/08/semantic-versioning-2-0-0/"},"frontmatter":{"date":"8 anni fa","title":"Semantic Versioning 2.0.0","description":null,"author":{"username":"tarin.gamberini","fullname":"Tarin Gamberini","email":"tarin.gamberini@jugpadova.it"},"categories":null,"tags":[{"name":"specifica","display":"specifica"},{"name":"versione","display":"versione"}]}}]}},"pageContext":{"title":"Posts with tag versione","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"versione"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

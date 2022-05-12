@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/programmazione/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Nei prossimi mesi uscirà in edicola una nuova rivista dedicata alla programmazione Java. Michele Sciabarrà, che ne sarà il direttore, ha…","fields":{"slug":"/articles/2006/01/09/una-nuova-rivista-di-programmazione/"},"frontmatter":{"date":"16 anni fa","title":"Una nuova rivista di programmazione","description":null,"author":{"username":"lucio.benfante","fullname":"Lucio Benfante","email":"lucio.benfante@jugpadova.it"},"categories":[{"name":"Interviste","permalink":"interviste"}],"tags":[{"name":"java","display":"java"},{"name":"programmazione","display":"programmazione"},{"name":"rivista","display":"rivista"}]}}]}},"pageContext":{"title":"Posts with tag programmazione","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"programmazione"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

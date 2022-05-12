@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/persistence/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Parancoe è un framework Web pensato per scrivere rapidamente applicazioni Web “di tutti i giorni”, cioè applicazioni senza requisiti…","fields":{"slug":"/articles/2006/12/09/un-dao-in-due-minuti/"},"frontmatter":{"date":"15 anni fa","title":"Un DAO in DUE minuti","description":null,"author":{"username":"lucio.benfante","fullname":"Lucio Benfante","email":"lucio.benfante@jugpadova.it"},"categories":[{"name":"Software","permalink":"software"},{"name":"Programmazione","permalink":"programmazione"}],"tags":[{"name":"parancoe","display":"Parancoe"},{"name":"persistence","display":"persistence"},{"name":"framework","display":"framework"},{"name":"dao","display":"DAO"}]}}]}},"pageContext":{"title":"Posts with tag persistence","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"persistence"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

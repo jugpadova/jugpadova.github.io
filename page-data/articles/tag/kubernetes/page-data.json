@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/kubernetes/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: venerdì 12 Aprile 2019 ore 19:00 Dove: Finantix - Via della Pila, 13 - 30175 Marghera (VE) dietro la\nstazione dei treni Guarda la…","fields":{"slug":"/articles/2019/04/14/cloud-native-applications-using-docker-and-kubernetes-openshift/"},"frontmatter":{"date":"3 anni fa","title":" JUG Meeting#80: Cloud Native Applications Using Docker and Kubernetes (OpenShift)","description":null,"author":{"username":"tarin.gamberini","fullname":"Tarin Gamberini","email":"tarin.gamberini@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"},{"name":"Eventi","permalink":"eventi"}],"tags":[{"name":"kubernetes","display":"kubernetes"},{"name":"openshift","display":"openshift"}]}}]}},"pageContext":{"title":"Posts with tag kubernetes","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"kubernetes"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}

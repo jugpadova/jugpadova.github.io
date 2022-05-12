@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-list-js",
+    "path": "/articles/tag/jruby/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"JUG Padova"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Quando: sabato 2 marzo dalle 9 alle 12:30 Dove: Saysource - Viale della Libertà 135 - 35047 Solesino, Padova.\nPer raggiungerci guarda la…","fields":{"slug":"/articles/2013/02/18/jug-meeting-ruby-e-jruby/"},"frontmatter":{"date":"9 anni fa","title":"JUG Meeting#64: Ruby e JRuby","description":null,"author":{"username":"enrico.giurin","fullname":"Enrico Giurin","email":"enrico.giurin@jugpadova.it"},"categories":[{"name":"Meeting","permalink":"meeting"},{"name":"Eventi","permalink":"eventi"},{"name":"Programmazione","permalink":"programmazione"}],"tags":[{"name":"ruby","display":"ruby"},{"name":"jruby","display":"JRuby"},{"name":"2.0","display":"2.0"}]}}]}},"pageContext":{"title":"Posts with tag jruby","filter":{"fileAbsolutePath":{"regex":"/(/blog/)/"},"frontmatter":{"tags":{"elemMatch":{"name":{"eq":"jruby"}}}}}}},
+    "staticQueryHashes": ["2243694114","2841359383","292711624"]}
