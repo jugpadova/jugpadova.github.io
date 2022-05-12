@@ -1,8 +1,9 @@
 /**
- * A component that produce the list of categories of a post.
+ * A component that produce the list of tags of a post.
  */
 
 import * as React from "react"
+import PropTypes from "prop-types"
 import styled from "styled-components"
 import { Link } from "gatsby"
 
@@ -38,9 +39,7 @@ const TagList = ({ tags = [] }) => {
             {tags.map((tag, i) => (
               <li key={tag.name}>
                 {i > 0 ? <>, </> : null}
-                <Link to={`/articles/tag/${tag.name}`}>
-                  {tag.display}
-                </Link>
+                <Link to={`/articles/tag/${tag.name}`}>{tag.display}</Link>
               </li>
             ))}
           </ListWrapper>
@@ -48,6 +47,10 @@ const TagList = ({ tags = [] }) => {
       )}
     </Wrapper>
   )
+}
+
+TagList.propTypes = {
+  tags: PropTypes.array,
 }
 
 export default TagList
